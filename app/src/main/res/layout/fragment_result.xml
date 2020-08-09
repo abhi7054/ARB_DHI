@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_topbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/imgBackground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/result1" />
+
+        <TextView
+            android:id="@+id/txtResult"
+            style="@style/TextViewStyleRegular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/_35sdp"
+            android:gravity="center"
+            android:text="Du hast 1 Minuten gespielt und\n dich mit 0 Fragen befasst.\n Dabei hast du Einiges gelernt.\n Denn  du hast 0 mal falsch gelegen.\n Geht es noch besser?"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_17ssp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/llBottomView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBlack"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@color/bottomBarOrange" />
+
+        <ImageView
+            android:id="@+id/imgNext"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:paddingStart="@dimen/_5sdp"
+            android:src="@drawable/ic_next_yellow" />
+    </LinearLayout>
+</LinearLayout>

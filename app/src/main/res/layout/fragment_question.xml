@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@color/colorWhite"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_topbar" />
+
+    <ScrollView
+        style="@style/ScrollviewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="@dimen/_5sdp">
+
+                <TextView
+                    android:id="@+id/txtlblFrage"
+                    style="@style/TextViewStyleRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_2sdp"
+                    android:text="@string/frage"
+                    android:textSize="@dimen/_14ssp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/txtFrageNo"
+                    style="@style/TextViewStyleRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="1"
+                    android:textSize="@dimen/_14ssp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/txtTimer"
+                    style="@style/TextViewStyleRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="00:00:04"
+                    android:textSize="@dimen/_14ssp"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:background="@color/colorBgGray"
+                android:overScrollMode="never"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_155sdp">
+            <TextView
+                android:id="@+id/txtQuestion"
+                style="@style/TextViewStyleRegular"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:padding="@dimen/_7sdp"
+                android:text="Die Formen Solltest du auswendig konnen. Kennest du die korrekte Verbform furs prateritum?"
+                android:textSize="@dimen/_16ssp" />
+            </ScrollView>
+            <Button
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/btnOption1"
+                style="@style/OptionButtonStyle"
+                android:lines="2"
+                android:ellipsize="end"
+                android:text="du nommast"
+                android:textSize="@dimen/_16ssp" />
+
+            <Button
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/btnOption2"
+                style="@style/OptionButtonStyle"
+                android:lines="2"
+                android:ellipsize="end"
+                android:text="du nahmste"
+                android:textSize="@dimen/_16ssp" />
+
+            <Button
+                android:id="@+id/btnOption3"
+                style="@style/OptionButtonStyle"
+                android:lines="2"
+                android:ellipsize="end"
+                android:text="du nahmst"
+                android:textSize="@dimen/_16ssp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <Button
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/btnStop"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:background="@drawable/ic_stop"
+                android:visibility="gone" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

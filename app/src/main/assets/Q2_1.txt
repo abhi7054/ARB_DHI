@@ -1,0 +1,459 @@
+1;als das Schwert.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Die Feder ist mächtiger;als das Schwert./aber es beruhigt./alt getan.
+2;als nie.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Besser spät;als nie./alle Wunden./aller Tage Abend.
+3;auf dem Tisch.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Ist die Katze aus dem Haus, tanzen die Mäuse;auch auslöffeln./alle Wunden./auf dem Tisch.
+4;andern Unglück.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Des einen Glück, des;andern Unglück./aller Tage Abend./auf dem Tisch.
+5;alles verloren.;Die Weisheit kommt im übertragenen Sinne."|"Wähle die richtige Fortsetzung."|"Ehre verloren,;alles verloren./alles erlaubt./alle Katzen grau.
+6;als der Stehler.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Der Hehler ist schlimmer;als der Stehler./alles gut./alles erlaubt.
+7;als Wasser.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Blut ist dicker;als Wasser./alles verloren./auch entzücken.
+8;am längsten.;Die Weisheit kommt im übertragenen Sinne."|"Wähle die richtige Fortsetzung."|"Ehrlich währt;am längsten./als Arbeit ein./aller Tage Abend.
+9;als gar nichts.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Besser etwas;als gar nichts./als das Schwert./außer man tut es.
+10;Zahn um Zahn.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Auge um Auge,;Zahn um Zahn./als der Stehler./alles verloren.
+11;Wahrheit spricht.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Wer einmal lügt, dem glaubt man nicht, und wenn er auch die;Wahrheit spricht./als die Hose./auf einem Holz.
+12;Wahrheit kund.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Kindermund tut;Wahrheit kund./als dumm./als das Schwert.
+13;Wort.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Ein Mann, ein;Wort./als gar nichts./anderen Leid.
+14;Weile haben.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Gut Ding will;Weile haben./als nie./andern Unglück.
+15;Welten Lohn.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Undank ist der;Welten Lohn./als Wasser./alle Wunden.
+16;außer man tut es.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Es gibt nichts Gutes,;außer man tut es./alt getan./als Nachsicht.
+17;als die Hose.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Das Hemd ist einem näher;als die Hose./am längsten./auch ohne Brot.
+18;Welt nicht unter.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Davon geht die;Welt nicht unter./andere Sitten./als die Hose.
+19;andere Sitten.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Andere Länder,;andere Sitten./anderen Leid./am längsten.
+20;aus dem Sinn.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Aus den Augen,;aus dem Sinn./andern Unglück./alles gut.
+21;zum Narren.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Hoffen und Harren macht manchen;zum Narren./Anfang ist schwer./Blutwurst.
+22;zwitschern die Jungen.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wie die Alten sungen, so;zwitschern die Jungen./April vorbei./Beinen haben.
+23;aller Tage Abend.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Es ist noch nicht;als Arm ab./auch auslöffeln./aller Tage Abend.
+24;alles erlaubt.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"In der Liebe und im Krieg ist;auch Schläge./auch auslöffeln./alles erlaubt.
+25;auch entzücken.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Hübscher Rücken kann;alle Katzen grau./auch B sagen./auch entzücken.
+26;auch ohne Brot.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"In der größten Not schmeckt die Wurst;aller Tage Abend./auch bezahlen./auch ohne Brot.
+27;als Arbeit ein.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Ist das Geschäft auch noch so klein, es bringt doch mehr;als Nachsicht./auch ein Weg./als Arbeit ein.
+28;alle Wunden.;Die Weisheit kommt im übertragenen Sinne."|"Wähle die richtige Fortsetzung."|"Die Zeit heilt;alle Wunden./auch entzücken./als Arm ab.
+29;auf einem Holz.;Die Weisheit kommt im übertragenen Sinne."|"Wähle die richtige Fortsetzung."|"Dummheit und Stolz wachsen;auf einem Holz./auch ohne Brot./als dumm.
+30;alles gut.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Ende gut,;alles gut./auf dem Tisch./auch Schläge.
+31;aber es beruhigt.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Geld macht nicht glücklich,;als dumm./auf dem Tisch./aber es beruhigt.
+32;als dumm.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Besser stumm;als dumm./auf einem Holz./aber es beruhigt.
+33;zum Handwerk.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Klappern gehört;zum Handwerk./Auge trocken./Bürgerpflicht.
+34;Weile.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Eile mit;Weile./aus dem Sinn./als der Stehler.
+35;anderen Leid.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Des einen Freud ist des;anderen Leid./außer man tut es./als Arbeit ein.
+36;zieht ihn sich an.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wem der Schuh passt, der;zieht ihn sich an./Baum nicht mehr./Dinge sind drei.
+37;alle Katzen grau.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"In der Nacht sind;auch auslöffeln./beantworten können./alle Katzen grau.
+38;Anfang ist schwer.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Aller;Anfang ist schwer./Beinen haben./Erfolg wartet.
+39;alt getan.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Jung gewohnt,;auf dem Tisch./beißen nicht./alt getan.
+40;auch Schläge.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Ratschläge sind;alle Wunden./beißen nicht./auch Schläge.
+41;zum Berg kommen.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wenn der Berg nicht zum Propheten kommt, muss der Prophet;zum Berg kommen./Berge versetzen./Diebe.
+42;als Nachsicht.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Vorsicht ist besser;beißen nicht./beste Medizin./als Nachsicht.
+43;als dumm.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Lieber stumm;auch bezahlen./beten./als dumm.
+44;auf dem Tisch.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Wenn die Katze aus dem Haus ist, tanzen die Mäuse;wer weiß./verboten./auf dem Tisch.
+45;als Arm ab.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Lieber arm dran,;auch B sagen./bis er bricht./als Arm ab.
+46;auch bezahlen.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Wer die Musik bestellt hat, muss sie;braucht seine Zeit./bleibt wie es ist./auch bezahlen.
+47;auch ein Weg.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Wo ein Wille ist, ist;beste Medizin./bleibt, wie es ist./auch ein Weg.
+48;auch auslöffeln.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Was man sich eingebrockt hat, das muss man;bis er bricht./blind./auch auslöffeln.
+49;über Studieren.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Probieren geht;über Studieren./Blutwurst./Ende kommt noch.
+50;zwitschern die Jungen.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wie die Alten sungen, so;zwitschern die Jungen./Böses dabei denkt./Eifer schadet nur.
+51;aller Tage Abend.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Noch ist nicht;auch ein Weg./braucht seine Zeit./aller Tage Abend.
+52;auch B sagen.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Wer A sagt, muss;beantworten können./bringt Leiden./auch B sagen.
+53;auch auslöffeln.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Wer die Suppe einbrockt, muss sie;beißen nicht./bringt Segen./auch auslöffeln.
+54;übrig bleibt.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wer nicht kommt zur rechten Zeit, der muss essen, was;übrig bleibt./Bürgerpflicht./Ehre gebührt.
+55;beste Medizin.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Lachen ist die;das halbe Leben./daheim./beste Medizin.
+56;das Ziel.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Der Weg ist;das Ziel./darauf freut./die Ente fett.
+57;der beste Koch.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Hunger ist;der beste Koch./das ganze Land./den beiden weh.
+58;beißen nicht.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Bellende Hunde;beten./das halbe Leben./beißen nicht.
+59;deinen Leisten.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Schuster, bleib bei;deinen Leisten./das neckt sich./ein grober Keil.
+60;beten.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die Not lehrt;bleibt wie es ist./das rat ich dir./beten.
+61;dicksten Kartoffeln.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die dümmsten Bauern haben die;dicksten Kartoffeln./das Vergnügen./desto mehr Sorgen.
+62;die Ersten sein.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die Letzten werden;die Ersten sein./das Vergnügen./desto doller.
+63;bleibt wie es ist.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Schreit der Hahn auf dem Mist, verändert sich das Wetter oder es;des Gedankens./das Ziel./bleibt wie es ist.
+64;das rat ich dir.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Bier auf Wein, das lass sein. Wein auf Bier,;das rat ich dir./das Ziel./dem selben Holz.
+65;dem anderen.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Kein Tag gleicht;dem anderen./deinen Leisten./den Brei.
+66;doppelte Freude.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Geteilte Freude ist;doppelte Freude./dem Abend loben./deinen Leisten.
+67;das Vergnügen.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Erst die Arbeit, dann;das Vergnügen./dem anderen./der Könige.
+68;dicksten Kartoffeln.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Der dümmste Bauer hat die;dicksten Kartoffeln./dem selben Holz./die Welt.
+69;dem Abend loben.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Man soll den Tag nicht vor;dem Abend loben./den beiden weh./das neckt sich.
+70;der Könige.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Pünktlichkeit ist die Höflichkeit;der Könige./den Brei./der hat schon.
+71;blind.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Liebe macht;die Regel./den Euro./blind.
+72;das Vergnügen.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Erst die Arbeit und dann;das Vergnügen./den Magen./die Sintflut.
+73;der Saat weh.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Märzschnee tut;der Saat weh./den Meister./die ganze Hand.
+74;die Sintflut.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Nach mir;die Sintflut./den Schädel ein./der gut fährt.
+75;bringt Segen.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Sich regen;des Erfolges./den Zimmermann./bringt Segen.
+76;dich redlich.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Bleibe im Lande und nähre;dich redlich./den Zimmermann./du suchen.
+77;du suchen.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Eichen sollst du weichen, Buchen sollst;du suchen./der beste Koch./dem Abend loben.
+78;alle Wunden.;Weisheiten nicht immer wörtlich zu verstehen."|"Wähle die richtige Fortsetzung."|"Zeit heilt;blind./der Edelmann?/alle Wunden.
+79;den Schädel ein.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Und willst du nicht mein Bruder sein, so schlag ich dir;den Schädel ein./der findet./einem Streiche.
+80;der findet.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer sucht,;einstecken können./der findet./einen Schutzengel.
+81;den Meister.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Übung macht;den Meister./der gut fährt./einmal zuviel.
+82;der gut fährt.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer gut schmiert,;einem Tag erbaut./der gut fährt./einem Streiche.
+83;der Tod.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Umsonst ist nur;der Tod./der hat schon./ersten Streiche.
+84;der hat schon.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer nicht will,;einen Besen./der hat schon./ein guter Kern.
+85;desto doller.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Je oller,;desto doller./der Könige./der Tod.
+86;den beiden weh.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Trenne nie st, denn es tut;den beiden weh./der kratze sich./es an den Tag.
+87;der kratze sich.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wen's juckt,;erbaut worden./der kratze sich./ersten Streiche.
+88;des Betrachters.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Schönheit liegt im Auge;des Betrachters./der rostet./der findet.
+89;die Ente fett.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Hinten ist;die Ente fett./der Saat weh./du in der Not.
+90;das ganze Land.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Mit dem Hut in der Hand kommst du durch;das ganze Land./der Tod./der kratze sich.
+91;den Zimmermann.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die Axt im Haus erspart;den Zimmermann./der Weisheit./der beste Koch.
+92;den Euro.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Der Cent macht;den Euro./des Betrachters./das Vergnügen.
+93;den Magen.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Käse schließt;den Magen./des Betrachters./den Schädel ein.
+94;beißen nicht.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Hunde, die bellen,;der Edelmann?/des Erfolges./beißen nicht.
+95;braucht seine Zeit.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Gutes;bleibt, wie es ist./des Gedankens./braucht seine Zeit.
+96;der Weisheit.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Erfahrung ist die Mutter;der Weisheit./desto doller./das ganze Land.
+97;darauf freut.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Ein Abschied schmerzt immer, auch wenn man sich schon lange;darauf freut./desto mehr Sorgen./der Saat weh.
+98;beantworten können.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Ein Narr fragt mehr, als zehn Weise;bringt Segen./dich redlich./beantworten können.
+99;beten.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Not lehrt;das rat ich dir./dicksten Kartoffeln./beten.
+100;bleibt, wie es ist.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Wenn der Hahn kräht auf dem Mist, ändert sich das Wetter oder es;daheim./dicksten Kartoffeln./bleibt, wie es ist.
+101;des Gedankens.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Da ist der Wunsch Vater;des Gedankens./dicksten Kartoffeln./darauf freut.
+102;dem selben Holz.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Dummheit und Stolz wachsen aus;dem selben Holz./die Ente fett./die Wahrheit.
+103;der Edelmann?;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Als Adam grub und Eva spann, wo war denn da;den Euro./die Ersten sein./der Edelmann?
+104;des Erfolges.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Dabeisein ist 80 Prozent;des Erfolges./die Ersten sein./der Weisheit.
+105;du in der Not.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Spare in der Zeit, so hast;du in der Not./die ganze Hand./eigene Schand.
+106;bringt Leiden.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Scheiden;dich redlich./die Musik./bringt Leiden.
+107;die Regel.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Ausnahmen bestätigen;die Regel./die Musik./des Betrachters.
+108;bis er bricht.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Der Krug geht so lange zum Brunnen,;bringt Leiden./die Regel./bis er bricht.
+109;desto mehr Sorgen.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Je mehr Geld,;desto mehr Sorgen./die Sintflut./den Meister.
+110;die Welt.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Geld regiert;die Welt./die Wahrheit./des Betrachters.
+111;die Wunde heilt.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die Narbe bleibt, wenn auch;die Wunde heilt./die Welt./den Magen.
+112;das halbe Leben.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Arbeit ist;dicksten Kartoffeln./die Wunde heilt./das halbe Leben.
+113;daheim.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Daheim ist;daheim./die Wunde heilt./das Vergnügen.
+114;April vorbei.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Regnet's im Mai, ist der;April vorbei./Diebe./Eisen.
+115;Auge trocken.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Da bleibt kein;Auge trocken./Dinge sind drei./Eichhörnchen.
+116;des Betrachters.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Die Schönheit liegt im Auge;des Betrachters./doppelte Freude./dem anderen.
+117;die Wahrheit.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Kinder und Narren sagen;die Wahrheit./du in der Not./der rostet.
+118;die Musik.;Die passende Fortsetzung bitte."|"Aber nicht wörtlich nehmen!"|"Der Ton macht;die Musik./du suchen./doppelte Freude.
+119;Böses dabei denkt.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Ein Schelm, der;Böses dabei denkt./Ehre gebührt./Feuer.
+120;Bürgerpflicht.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Ruhe ist die erste;Bürgerpflicht./Eichhörnchen./Gebot.
+121;Baum nicht mehr.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Das Bäumchen biegt sich, doch der;Baum nicht mehr./Eifer schadet nur./Feind des Guten.
+122;der rostet.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer rastet,;der rostet./eigene Schand./einen Schutzengel.
+123;eigene Schand.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Der Lauscher an der Wand hört seine;fließen ins Meer./eigene Schand./erfinderisch.
+124;den Brei.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Viele Köche verderben;den Brei./ein grober Keil./ein guter Kern.
+125;ein grober Keil.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Auf einen groben Klotz gehört;eine Bürde./ein grober Keil./eine harte Nuss.
+126;ein guter Kern.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"In einer rauen Schale steckt oft;faules Mädchen./ein guter Kern./eine Bürde.
+127;eine Bürde.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Zu viel Würde;gehört ein Deckel./eine Bürde./faulen Leute.
+128;eine harte Nuss.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Muss ist;faulen Leute./eine harte Nuss./führen nach Rom.
+129;einem Streiche.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Es fällt keine Eiche von;findet seine Grete./einem Streiche./einstecken können.
+130;einem Tag erbaut.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Rom wurde auch nicht an;fällt tief./einem Tag erbaut./findet seine Grete.
+131;einen Besen.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Viel Reiser machen;fallen Späne./einen Besen./faules Mädchen.
+132;einen Schutzengel.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Kinder und Narren haben;fängt man Mäuse./einen Schutzengel./fließen ins Meer.
+133;die ganze Hand.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wem man den kleinen Finger gibt, der nimmt oft;die ganze Hand./einmal zuviel./erfinderisch.
+134;einmal zuviel.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Einmal ist keinmal, zweimal ist;fällt kein Baum./einmal zuviel./einem Tag erbaut.
+135;einstecken können.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer austeilt, muss auch;gut./einstecken können./fängt man Mäuse.
+136;Beinen haben.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Was man nicht im Kopf hat, muss man in den;Beinen haben./Eisen./Goldes wert.
+137;Berge versetzen.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Der Glaube kann;Berge versetzen./Ende kommt noch./Freude, Eierkuchen.
+138;erbaut worden.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Rom ist auch nicht an einem Tag;frisst er nicht./erbaut worden./feinen Kleider.
+139;erfinderisch.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Not macht;führen nach Rom./erfinderisch./fällt kein Baum.
+140;Blutwurst.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Rache ist;Blutwurst./Erfolg wartet./Freundschaft.
+141;ersten Streiche.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Es fällt keine Eiche vom;feinen Kleider./ersten Streiche./einen Besen.
+142;das neckt sich.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Was sich liebt,;das neckt sich./es an den Tag./eine harte Nuss.
+143;es an den Tag.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Die Sonne bringt;führen nach Rom./es an den Tag./erbaut worden.
+144;fallen Späne.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wo gehobelt wird,;große Sorgen./fallen Späne./gekocht wird.
+145;fällt kein Baum.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Auf einen Hieb;größten Kartoffeln./fällt kein Baum./fällt tief.
+146;fällt tief.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Wer hoch steigt,;gibt ein Tönchen./fällt tief./gefällt.
+147;fängt man Mäuse.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Mit Speck;gesellt sich gern./fängt man Mäuse./gehört die Welt.
+148;faulen Leute.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Morgen, morgen, nur nicht heute, sagen alle;goldenen Boden./faulen Leute./gibt nach.
+149;faules Mädchen.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Langes Fädchen,;gekocht wird./faules Mädchen./gehört ein Deckel.
+150;Dinge sind drei.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Aller guten;Dinge sind drei./Feind des Guten./Gott lenkt.
+151;feinen Kleider.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Grobe Tücher geben keine;gibt es nicht./feinen Kleider./fallen Späne.
+152;findet seine Grete.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Jeder Hans;gefällt./findet seine Grete./gut.
+153;fließen ins Meer.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Alle Flüsse;gehört die Welt./fließen ins Meer./führen nach Rom.
+154;Diebe.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Gelegenheit macht;Diebe./Freude, Eierkuchen./Gold, was glänzt.
+155;frisst er nicht.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Was der Bauer nicht kennt,;gefällt seine Kappe./frisst er nicht./gibt es nicht.
+156;führen nach Rom.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Alle Wege;gibt nach./führen nach Rom./frisst er nicht.
+157;führen nach Rom.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Viele Wege;ganz ungeniert./führen nach Rom./größten Kartoffeln.
+158;gehört die Welt.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Dem Mutigen;gehört die Welt./ganz ungeniert./gleich Qualität.
+159;ganz ungeniert.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Ist der Ruf erst ruiniert, lebt es sich;ganz ungeniert./gedeihet nicht./hält besser.
+160;gefällt seine Kappe.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Jedem Narren;gefällt seine Kappe./gedeiht nicht./hilfreich und gut.
+161;gekocht wird.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Es wird nichts so heiß gegessen, wie es;gekocht wird./geduldig./gibt doppelt.
+162;gibt nach.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Der Klügere;gibt nach./gefällt seine Kappe./gründen tief.
+163;Erfolg wartet.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Erfolg hat nur, wer etwas tut, während er auf den;Goldes wert./Geld./Erfolg wartet.
+164;gut.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Neue Besen kehren;gut./gesellt sich gern./große Wirkung.
+165;gibt ein Tönchen.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Jedes Böhnchen;gibt ein Tönchen./gespielt wird./halb gewonnen.
+166;große Sorgen.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Kleine Kinder, kleine Sorgen, große Kinder,;große Sorgen./gibt doppelt./halb verdaut.
+167;größten Kartoffeln.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Die dümmsten Bauern haben die;größten Kartoffeln./gibt ein Tönchen./gedeihet nicht.
+168;gesellt sich gern.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Gleich und Gleich;gesellt sich gern./gleich Qualität./heiligt die Mittel.
+169;Ehre gebührt.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Ehre, wem;Gebot./Glück allein./Ehre gebührt.
+170;Eifer schadet nur.;Volksweisheit nicht wörtlich nehmen."|"Wie ist zu ergänzen?"|"Blinder;Feuer./Glückes Schmied./Eifer schadet nur.
+171;Ende kommt noch.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Das dicke;Freundschaft./Gold im Mund./Ende kommt noch.
+172;gehört ein Deckel.;Eine gängige Weisheit, aber nicht wörtlich."|"Was passt?"|"Auf jeden Topf;gehört ein Deckel./goldenen Boden./geduldig.
+173;gibt es nicht.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Ein bisschen schwanger;gibt es nicht./große Sorgen./gedeiht nicht.
+174;gefällt.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Erlaubt ist, was;gefällt./große Wirkung./gespielt wird.
+175;goldenen Boden.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Handwerk hat;goldenen Boden./gründen tief./haben Ohren.
+176;geduldig.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Papier ist;geduldig./haben Ohren./hat ihre Ebbe.
+177;Feind des Guten.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Das Bessere ist der;Glückes Schmied./Häkchen werden will./Feind des Guten.
+178;gedeihet nicht.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Unrecht Gut;gedeihet nicht./halb gewonnen./halbe Gewinn.
+179;gedeiht nicht.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Unrecht Gut;gedeiht nicht./halb verdaut./hinten pfui.
+180;hält besser.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Doppelt genäht;hält besser./halbe Gewinn./ist Schweigen.
+181;Eichhörnchen.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Mühsam ernährt sich das;Gott lenkt./Hälfte des Ganzen./Eichhörnchen.
+182;gleich Qualität.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Quantität ist nicht;gleich Qualität./hält besser./hat nie gereut.
+183;Feuer.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Kein Rauch ohne;Glück allein./Hans nimmermehr./Feuer.
+184;halb gewonnen.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"frisch gewagt ist;halb gewonnen./hat die Qual./ist klein.
+185;gibt doppelt.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Wer rasch gibt,;gibt doppelt./hat ihre Ebbe./ist ungesund.
+186;heiligt die Mittel.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Der Zweck;heiligt die Mittel./hat nie gereut./isst mit.
+187;große Wirkung.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Kleine Ursache,;große Wirkung./heiligt die Mittel./höflich sein will.
+188;Freude, Eierkuchen.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Friede,;Gold im Mund./Herren dienen./Freude, Eierkuchen.
+189;Freundschaft.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Kleine Geschenke erhalten die;Geld./Hilfe am nächsten./Freundschaft.
+190;gründen tief.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Stille Wasser;gründen tief./hilfreich und gut./höhlt den Stein.
+191;Eisen.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Not bricht;Gold, was glänzt./Himmel gefallen./Eisen.
+192;hilfreich und gut.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Edel sei der Mensch,;hilfreich und gut./hinten pfui./ist ein Dorf.
+193;gespielt wird.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Wer die Musik bezahlt, bestimmt auch, was;gespielt wird./höflich sein will./hat die Qual.
+194;haben Ohren.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Die Wände;haben Ohren./höhlt den Stein./in der Kirche.
+195;ist gut munkeln.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Im Dunkeln;ist gut munkeln./ich dir./kein Ponyhof.
+196;isst mit.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Das Auge;isst mit./ihn zu finden./ich dir.
+197;ist ungesund.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Allzu viel;ist ungesund./im Haferstroh./in der Liebe.
+198;in der Kirche.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Das ist so sicher wie das Amen;in der Kirche./immer zweimal./ist auch Feuer.
+199;hat ihre Ebbe.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Jede Flut;hat ihre Ebbe./in der Kirche./im Haferstroh.
+200;ist klein.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Die Welt;ist klein./in der Liebe./krank am Herzen.
+201;ist halbes Leid.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Geteiltes Leid;ist halbes Leid./in der Liebe./kommt zuletzt.
+202;höflich sein will.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Im Deutschen lügt man, wenn man;höflich sein will./isst mit./ist gut munkeln.
+203;im Haferstroh.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Lebe glücklich, lebe froh, wie der Mops;im Haferstroh./ist auch Feuer./keine Taschen.
+204;höhlt den Stein.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Steter Tropfen;höhlt den Stein./ist ein Dorf./immer zweimal.
+205;hat die Qual.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Wer die Wahl hat,;hat die Qual./ist gut munkeln./in der Liebe.
+206;ist Schweigen.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Der Rest;ist Schweigen./ist gut ruhn./ja noch werden.
+207;hinten pfui.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Vorne hui,;hinten pfui./ist halbes Leid./ist umsonst.
+208;halbe Gewinn.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Umsatz ist der;halbe Gewinn./ist klein./ist gut ruhn.
+209;hat nie gereut.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Jung gefreit;hat nie gereut./ist Schweigen./ihn zu finden.
+210;ist ein Dorf.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Die Welt;ist ein Dorf./ist umsonst./kommt von oben.
+211;halb verdaut.;Wie endet der weise Spruch?"|"Nicht wörtlich gemeint."|"Gut gekaut ist;halb verdaut./ist ungesund./ist halbes Leid.
+212;ihn zu finden.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Man muss manchmal von einem Menschen fortgehen, um;ihn zu finden./ja noch werden./kommt beim Essen.
+213;kurzer Verstand.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Lange Haare,;kostet das Leben./kann tief fallen./kurzer Verstand.
+214;Gott lenkt.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Der Mensch denkt,;Häkchen werden will./Kartoffeln./Gott lenkt.
+215;in der Liebe.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Pech im Spiel, Glück;in der Liebe./kein Ponyhof./kommt Rat.
+216;keine Herrenjahre.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Lehrjahre sind;kennt kein Alter./kein Richter./keine Herrenjahre.
+217;ist auch Feuer.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wo Rauch ist,;ist auch Feuer./keine Abkürzung./kurzer Sinn.
+218;kommt Rat.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Kommt Zeit,;kein Erben./keine Balken./kommt Rat.
+219;kurzer Sinn.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Lange Rede,;kommt nichts./keine Brille./kurzer Sinn.
+220;kommt beim Essen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Der Appetit;kommt beim Essen./keine Herrenjahre./kostet das Leben.
+221;kurze Beine.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Lügen haben;keinem anderen zu./keine Lieder./kurze Beine.
+222;kostet das Leben.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Nur der Tod ist umsonst, und selbst der;keine Balken./keine Lieder./kostet das Leben.
+223;ja noch werden.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Was nicht ist, kann;ja noch werden./keine Pillen./keine Herrenjahre.
+224;in der Liebe.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Unglück im Spiel, Glück;in der Liebe./keine Taschen./können.
+225;kratzen trotzdem.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Katzen, die schnurren,;kein Preis./keinem anderen zu./kratzen trotzdem.
+226;können.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Kunst kommt von;kostet das Leben./keinem Andren zu./können.
+227;keine Pillen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Dumm bleibt dumm, da helfen;kostet das Leben./kennt kein Alter./keine Pillen.
+228;ich dir.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wie du mir, so;ich dir./kommt beim Essen./kurzer Verstand.
+229;krank am Herzen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Arm am Beutel,;krank am Herzen./kommt Rat./kostet das Leben.
+230;immer zweimal.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Man sieht sich im Leben;immer zweimal./kommt von oben./keine Abkürzung.
+231;ist umsonst.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Nur der Tod;ist umsonst./kommt zuletzt./kratzen trotzdem.
+232;Glückes Schmied.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Jeder ist seines;Hans nimmermehr./König./Glückes Schmied.
+233;kommt zuletzt.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Das dicke Ende;kommt zuletzt./können./kein Preis.
+234;Gold im Mund.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Morgenstund hat;Hilfe am nächsten./Kontrolle ist besser./Gold im Mund.
+235;ist gut ruhn.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Nach getaner Arbeit;ist gut ruhn./krank am Herzen./keine Pillen.
+236;kommt von oben.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Alles Gute;kommt von oben./kratzen trotzdem./kurze Beine.
+237;Gebot.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Not kennt kein;Hälfte des Ganzen./Kraut gewachsen./Gebot.
+238;Goldes wert.;Volksweisheit nicht wörtlich nehmen."|"Ergänze bitte."|"Eigener Herd ist;Himmel gefallen./Krieges gesehen./Goldes wert.
+239;Gold, was glänzt.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Es ist nicht alles;Herren dienen./Kummer und Sorgen./Gold, was glänzt.
+240;keine Abkürzung.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Der Weg zum Erfolg hat;keine Abkürzung./kurze Beine./kommt nichts.
+241;keine Taschen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Das letzte Hemd hat;keine Taschen./kurzer Sinn./kostet das Leben.
+242;kein Ponyhof.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Das Leben ist;kein Ponyhof./kurzer Verstand./kein Erben.
+243;kann tief fallen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wer hoch steigt,;liegt die Würze./lacht am besten./kann tief fallen.
+244;kein Erben.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Ohne Sterben;kann tief fallen./lässt man laufen./kein Erben.
+245;Hälfte des Ganzen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Der Anfang ist die;Kartoffeln./Laster Anfang./Hälfte des Ganzen.
+246;Himmel gefallen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Es ist noch kein Meister vom;Kummer und Sorgen./Leben./Himmel gefallen.
+247;keinem Andren zu.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wenn du nicht willst, was man dir tu´, das füg auch;leicht bricht das./lebt länger./keinem Andren zu.
+248;keinem anderen zu.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Was du nicht willst, das man dir tu, das füg auch;lernt man./leere Taschen./keinem anderen zu.
+249;Geld.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Zeit ist;Krieges gesehen./Lehrmeisterin./Geld.
+250;kostet das Leben.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Umsonst ist der Tod, und der;keine Brille./leicht bricht das./kostet das Leben.
+251;kein Preis.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Ohne Fleiß;keinem Andren zu./lernt man./kein Preis.
+252;Glück allein.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Trautes Heim,;Kraut gewachsen./Leute./Glück allein.
+253;Häkchen werden will.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Früh krümmt sich, was ein;König./Lichtlein her./Häkchen werden will.
+254;keine Balken.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wasser hat;lässt man laufen./liebt sich./keine Balken.
+255;Herren dienen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Ergänze bitte."|"Niemand kann zwei;Kontrolle ist besser./Lied ich sing./Herren dienen.
+256;kommt nichts.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Von nichts;keine Lieder./liegt die Kraft./kommt nichts.
+257;kostet das Leben.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Umsonst ist nur der Tod, und selbst der;kein Richter./liegt die Würze./kostet das Leben.
+258;kennt kein Alter.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wahre Schönheit;keine Lieder./lobt seine Ware./kennt kein Alter.
+259;liegt die Würze.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"In der Kürze;man ohne ihr./macht Wangen rot./liegt die Würze.
+260;Kummer und Sorgen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Spinne am Morgen bringt;Lied ich sing./Macht./Kummer und Sorgen.
+261;Leben.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Ordnung ist das halbe;Leben./Macht./Richter sein.
+262;Hans nimmermehr.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Was Hänschen nicht lernt, lernt;Leute./Magen./Hans nimmermehr.
+263;keine Lieder.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wo man singt, dort lass' dich nieder, böse Menschen haben;leere Taschen./mahlen langsam./keine Lieder.
+264;man den Löwen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"An der Klaue erkennt;mehr als zwei./mahlt zuerst./man den Löwen.
+265;mitgefangen, mitgehangen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Mitgegangen,;mitgefangen, mitgehangen./mahlt zuerst./nicht.
+266;keine Brille.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wer nicht sehen will, dem hilft;liegt die Kraft./man den Löwen./keine Brille.
+267;lobt seine Ware.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Jeder Krämer;morgen tot./man nicht leben./lobt seine Ware.
+268;kein Richter.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wo kein Kläger, da;lobt seine Ware./man ohne ihr./kein Richter.
+269;lässt man laufen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Die kleinen Diebe hängt man, die großen;lacht am besten./man sich fühlt./lässt man laufen.
+270;Kartoffeln.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Rein in die Kartoffeln, raus aus den;Lichtlein her./Mann./Kartoffeln.
+271;liegt die Kraft.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"In der Ruhe;mahlen langsam./mehr als zwei./liegt die Kraft.
+272;liebt sich.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Was sich neckt, das;man sich fühlt./meist mehr./liebt sich.
+273;Krieges gesehen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Nur die Toten haben das Ende des;Leben./Meister werden will./Krieges gesehen.
+274;lernt man.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Aus Fehlern;lebt länger./menschlich./lernt man.
+275;leere Taschen.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Naschen macht;menschlich./mich nicht heiß./leere Taschen.
+276;Hilfe am nächsten.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Wenn die Not am größten, ist Gottes;Lehrmeisterin./Minute zu spät./Hilfe am nächsten.
+277;leicht bricht das.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Glück und Glas, wie;man den Löwen./mitgefangen, mitgehangen./leicht bricht das.
+278;Kraut gewachsen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Dagegen ist kein;Laster Anfang./Mohr kann gehen./Kraut gewachsen.
+279;keine Lieder.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wo man singt, dort lass dich ruhig nieder, böse Menschen haben;liebt sich./morgen tot./keine Lieder.
+280;lebt länger.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wer Angst hat,;mitgefangen, mitgehangen./muss fühlen./lebt länger.
+281;lacht am besten.;Der kluge Spruch ist nicht wörtlich gemeint."|"Bitte ergänzen."|"Wer zuletzt lacht,;macht Wangen rot./muss leiden./lacht am besten.
+282;nicht erwartet.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Geschenke sind am schönsten, wenn man sie;nicht erwartet./nicht auf morgen./oder nicht.
+283;muss leiden.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wer schön sein will,;muss leiden./nicht aufgehoben./nie aus.
+284;nicht aufgehoben.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Aufgeschoben ist;nicht aufgehoben./nicht aufhalten./nicht zu sorgen.
+285;niemand kann.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Allen Menschen recht getan, ist eine Kunst, die;niemand kann./nicht erwartet./nicht.
+286;nicht verloren.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Noch ist Polen;nicht verloren./nicht gewinnt./seine Zeit.
+287;mahlen langsam.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Gottes Mühlen;mich nicht heiß./nicht Sonntag./mahlen langsam.
+288;mehr als zwei.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Vier Augen sehen;mehr als zwei./nicht Sonntag./nicht weiter.
+289;nichts.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Fragen kostet;nichts./nicht streiten./offen.
+290;nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Armut schändet;nicht./nicht verloren./nicht zu helfen.
+291;mahlt zuerst.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wer zuerst kommt,;mahlt zuerst./nicht weiter./nicht verloren.
+292;niemand gereut.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Jung gefreit hat;niemand gereut./nicht zu helfen./oft.
+293;nie aus.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Man lernt;nie aus./nicht zu sorgen./rostet nicht.
+294;menschlich.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Irren ist;muss fühlen./nicht, was er will./menschlich.
+295;mich nicht heiß.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Was ich nicht weiß, macht;mich nicht heiß./nicht, was er will./nichts.
+296;man ohne ihr.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Bescheidenheit ist eine Zier, doch weiter kommt;man nicht leben./nicht./man ohne ihr.
+297;man sich fühlt.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Man ist so jung, wie;muss leiden./nicht./man sich fühlt.
+298;macht Wangen rot.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Salz und Brot;macht Wangen rot./nicht./nicht aufgehoben.
+299;meist mehr.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Weniger ist;meist mehr./nicht./nicht erwartet.
+300;muss fühlen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wer nicht hören will,;muss fühlen./nicht./niemand gereut.
+301;niemand verwehren.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Ein Küsschen in Ehren kann;niemand verwehren./nicht./offen.
+302;nicht Sonntag.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Alle Tage ist;nicht Sonntag./nichts./nie.
+303;nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Arbeit schändet;nicht./nie aus./nicht auf morgen.
+304;nicht weiter.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Bis hierher und;nicht weiter./nie./nicht gewinnt.
+305;nicht, was er will.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"April, April, der weiß;nicht, was er will./niemand gereut./nicht streiten.
+306;morgen tot.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Bitte ergänzen."|"Heute rot,;meist mehr./niemand kann./morgen tot.
+307;man nicht leben.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Von Liebe und Luft kann;man nicht leben./niemand kann./niemand verwehren.
+308;nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Geld stinkt;nicht./niemand verwehren./nicht aufhalten.
+309;nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Tränen lügen;nicht./oder nicht./sein Himmelreich.
+310;nicht aufhalten.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Reisende soll man;nicht aufhalten./offen./seiner Zeit.
+311;nie.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Sag niemals;nie./offen./stärkt die Glieder.
+312;nicht streiten.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Über Geschmack lässt sich;nicht streiten./oft./schönste Freude.
+313;König.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Unter den Blinden ist der Einäugige;Magen./Pech im Spiel./König.
+314;Lichtlein her.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Und wenn du glaubst es geht nicht mehr, kommt von irgendwo ein;Lichtlein her./Pech im Spiel./Rose ohne Dornen.
+315;Leute.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Kleider machen;Mohr kann gehen./Porzellankiste./Leute.
+316;Magen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Liebe geht durch den;Magen./Porzellankiste./Sorgen.
+317;Kontrolle ist besser.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Vertrauen ist gut,;Minute zu spät./Preußen nicht./Kontrolle ist besser.
+318;Lied ich sing.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Wes Brot ich ess, des;Lied ich sing./Preußen nicht./Sonnenschein.
+319;Laster Anfang.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Müßiggang ist aller;Mann./Rat ist teuer./Laster Anfang.
+320;Mohr kann gehen.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Der Mohr hat seine Schuldigkeit getan, der;Mohr kann gehen./Rat ist teuer./Schnaps ist Schnaps.
+321;Meister werden will.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"früh übt sich, was ein;Meister werden will./Richter sein./Seele zusammen.
+322;Mann.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Selbst ist der;Mann./Rose ohne Dornen./Staate Dänemark.
+323;nicht auf morgen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Was du heute kannst besorgen, das verschiebe;nicht auf morgen./rostet nicht./sind gefallen.
+324;Lehrmeisterin.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Erfahrung ist die beste;Meister werden will./Rücken der Pferde./Lehrmeisterin.
+325;Minute zu spät.;Weise Sprüche sind nicht wörtlich zu verstehen."|"Kannst du ergänzen?"|"Besser eine Stunde zu früh als eine;Minute zu spät./Rücken der Pferde./Staate Dänemark.
+326;süßer der Kern.;Eine kleine Weisheit. Übertragen zu verstehen."|"Was wäre die sinnvolle Fortsetzung?"|"Je bitterer die Schale, umso;süßer der Kern./sagen./stirb.
+327;sagen.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Niemals nie;so der Schnitt./sagen./selbst hinein.
+328;Rose ohne Dornen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Keine;Rose ohne Dornen./Salz der Erde./Steinen werfen.
+329;rostet nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Alte Liebe;rostet nicht./sanftes Ruhekissen./selbst vergebens.
+330;schallt es heraus.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie man in den Wald hineinruft, so;vor Recht./schallt es heraus./und Redlichkeit.
+331;Richter sein.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"In eigener Sache kann niemand;Richter sein./Schatten voraus./Stube hocken.
+332;Schnaps ist Schnaps.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Dienst ist Dienst und;Schnaps ist Schnaps./Schäume./Torheit nicht.
+333;Schäume.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Träume sind;Vater aller Dinge./Schäume./Tränen.
+334;Sonnenschein.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Auf Regen folgt;Sonnenschein./Scheun' und Fass./Steinen werfen.
+335;oft.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Unverhofft kommt;oft./kommt soft./scheut das Feuer.
+336;schönste Freude.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Die Vorfreude ist die;schönste Freude./scheut das Feuer./sein Pläsierchen.
+337;Porzellankiste.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Vorsicht ist die Mutter der;Porzellankiste./Schnaps ist Schnaps./Schritte tun.
+338;selten allein.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Ein Unglück kommt;selten allein./schöner die Gäste./solange es heiß ist.
+339;offen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Dann ist Polen;offen./schönste Freude./stark.
+340;Sorgen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Borgen macht;Sorgen./Schritte tun./Sturm ernten.
+341;Schritte tun.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Nach dem Essen sollst du ruhn oder tausend;Unfriede verzehrt./Schritte tun./Torheit nicht.
+342;Staate Dänemark.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Da ist was faul im;Staate Dänemark./Schweigen ist Gold./Sonntag sich zeigt.
+343;Schweigen ist Gold.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Reden ist Silber,;Verteidigung./Schweigen ist Gold./Teufel Fliegen.
+344;Rücken der Pferde.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Das Glück der Erde liegt auf dem;Rücken der Pferde./Seele zusammen./Schweigen ist Gold.
+345;offen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Da ist Polen;offen./sein Himmelreich./studiert nicht gern.
+346;stark.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Einigkeit macht;stark./sein Pläsierchen./sein.
+347;schöner die Gäste.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Je später der Abend, desto;schöner die Gäste./sein./sich der Dritte.
+348;sein.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Ordnung muss;so der Lohn./sein./so die Glieder.
+349;nicht zu helfen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wem nicht zu raten ist, dem ist;nicht zu helfen./seine Zeit./scheut das Feuer.
+350;selbst vergebens.;Eine kleine Weisheit. Übertragen zu verstehen."|"Was wäre die sinnvolle Fortsetzung?"|"Gegen Dummheit kämpfen Götter;selbst vergebens./seinen Deckel./streiten.
+351;seinen Deckel.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Jeder Topf findet;so der Sohn./seinen Deckel./stirb.
+352;scheut das Feuer.;Eine kleine Weisheit. Übertragen zu verstehen."|"Was wäre die sinnvolle Fortsetzung?"|"Gebranntes Kind;scheut das Feuer./seiner eigenen Tür./sind tief.
+353;seiner eigenen Tür.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Jeder kehre vor;so die Herde./seiner eigenen Tür./selten gut.
+354;nicht zu sorgen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wer den Schaden hat, braucht für den Spott;nicht zu sorgen./seiner Zeit./sanftes Ruhekissen.
+355;seliger als nehmen.;Eine kleine Weisheit. Übertragen zu verstehen."|"Was wäre die sinnvolle Fortsetzung?"|"Geben ist;seliger als nehmen./selbst der Nächste./süß.
+356;selbst hinein.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wer andern eine Grube gräbt, fällt;tausend auf ein Lot./selbst hinein./so zerronnen.
+357;sind gefallen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Die Würfel;sind gefallen./selbst vergebens./selbst der Nächste.
+358;sein Himmelreich.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Des Menschen Wille ist;sein Himmelreich./seliger als nehmen./sie ausspricht.
+359;seine Zeit.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Alles hat;seine Zeit./selten allein./sich der Meister.
+360;selten gut.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Übermut tut;sich die Geier./selten gut./so die Ernte.
+361;sich der Dritte.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wenn zwei sich streiten, freut;tausend Worte./sich der Dritte./so der Lohn.
+362;scheut das Feuer.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Ein gebranntes Kind;scheut das Feuer./sich der Meister./seiner eigenen Tür.
+363;sich die Geier.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wo ein Aas ist, sammeln;vergeht nicht./sich die Geier./verliert nichts.
+364;studiert nicht gern.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Ein voller Bauch;studiert nicht gern./sie ausspricht./sagen.
+365;siebente satt.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wo sechs essen, wird auch der;viel Ehr./siebente satt./vom Brot allein.
+366;oder nicht.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Talent hat man;oder nicht./sind gefallen./seliger als nehmen.
+367;sein Pläsierchen.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Jedem Tierchen;sein Pläsierchen./sind tief./so die Glieder.
+368;sind tief.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Stille Wasser;schallt es heraus./sind tief./so die Herde.
+369;so der Lohn.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie die Tat,;vor Eigennutz./so der Lohn./tiefer du fällst.
+370;so der Schnitt.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie die Sense,;vom Brot allein./so der Schnitt./tausend auf ein Lot.
+371;so der Sohn.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie der Vater,;verpflichtet./so der Sohn./siebente satt.
+372;so die Ernte.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie die Saat,;verliert nichts./so die Ernte./tausend Worte.
+373;so die Glieder.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie das Haupt,;tiefer du fällst./so die Glieder./schallt es heraus.
+374;so die Herde.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie der Hirt,;und Redlichkeit./so die Herde./sich die Geier.
+375;so liegt man.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie man sich bettet,;verträgt sich./so liegt man./verpflichtet.
+376;so zerronnen.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie gewonnen,;vor dem Fall./so zerronnen./unter der Sonne.
+377;so’s Gescherr.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wie der Herr,;unter der Sonne./so’s Gescherr./so liegt man.
+378;sich der Meister.;Eine kleine Weisheit. Übertragen zu verstehen."|"Was wäre die sinnvolle Fortsetzung?"|"In der Beschränkung zeigt;sich der Meister./solange es heiß ist./selten gut.
+379;solange es heiß ist.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Man muss das Eisen schmieden,;so die Ernte./solange es heiß ist./sich der Dritte.
+380;Macht.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wissen ist;Macht./Sonnenschein./Schatten voraus.
+381;Scheun' und Fass.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Ist der Mai kühl und nass, füllt's dem Bauern;Scheun' und Fass./Sonntag sich zeigt./Treppe benutzen.
+382;Sonntag sich zeigt.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wie der Freitag sich neigt, so der;Weile haben./Sonntag sich zeigt./Verteidigung.
+383;Pech im Spiel.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Glück in der Liebe,;Pech im Spiel./Sorgen./Salz der Erde.
+384;Preußen nicht.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"So schnell schießen die;Preußen nicht./Staate Dänemark./Scheun' und Fass.
+385;Rat ist teuer.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Guter;Rat ist teuer./Staate Dänemark./Schäume.
+386;stärkt die Glieder.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Arbeit macht das Leben süß, Faulheit;stärkt die Glieder./stark./schöner die Gäste.
+387;nicht gewinnt.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Wer nicht wagt, der;nicht gewinnt./stärkt die Glieder./selten allein.
+388;Staate Dänemark.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Etwas ist faul im;Staate Dänemark./Steinen werfen./Tränen.
+389;Schatten voraus.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Große Ereignisse werfen ihre;Schatten voraus./Steinen werfen./Tugend besteht.
+390;Steinen werfen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wer im Glashaus sitzt, soll nicht mit;Welt nicht unter./Steinen werfen./Talers nicht wert.
+391;Steinen werfen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wer im Glashaus sitzt, sollte nicht mit;Weile./Steinen werfen./Treppe benutzen.
+392;stirb.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Vogel friss oder;siebente satt./stirb./so der Schnitt.
+393;selbst der Nächste.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Jeder ist sich;selbst der Nächste./streiten./so’s Gescherr.
+394;streiten.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Über Geschmack lässt sich;so liegt man./streiten./so der Sohn.
+395;Seele zusammen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Essen und Trinken hält Leib und;Seele zusammen./Stube hocken./Teufel Fliegen.
+396;Stube hocken.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wenn dich die bösen Buben locken, dann sollst du in der;Wurst hat zwei./Stube hocken./Tugend besteht.
+397;seiner Zeit.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Alles zu;seiner Zeit./studiert nicht gern./süßer der Kern.
+398;Salz der Erde.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Ihr seid das;Salz der Erde./Sturm ernten./Talers nicht wert.
+399;Sturm ernten.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wer Wind sät, wird;Wort./Sturm ernten./Unfriede verzehrt.
+400;sie ausspricht.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Jede Wahrheit braucht einen Mutigen, der;sie ausspricht./süß./selbst hinein.
+401;süß.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Rache ist;so zerronnen./süß./so’s Gescherr.
+402;sanftes Ruhekissen.;Eine kleine Weisheit. Nicht wörtlich gemeint."|"Was wäre die sinnvolle Fortsetzung?"|"Ein gutes Gewissen ist ein;sanftes Ruhekissen./süßer der Kern./seinen Deckel.
+403;Talers nicht wert.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Wer den Pfennig nicht ehrt, ist des;andere Sitten./Talers nicht wert./Wort.
+404;tausend auf ein Lot.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Freunde in der Not gehen;verderben den Brei./tausend auf ein Lot./vor dem Fall.
+405;tausend Worte.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Ein Bild sagt mehr als;viel Schatten./tausend Worte./vor Eigennutz.
+406;Teufel Fliegen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"In der Not frisst der;Welten Lohn./Teufel Fliegen./Wurst hat zwei.
+407;tiefer du fällst.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Je höher du steigst, desto;wird man klug./tiefer du fällst./vor Recht.
+408;Torheit nicht.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Alter schützt vor;Wahrheit kund./Torheit nicht./Vater aller Dinge.
+409;Tränen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Perlen bedeuten;Wahrheit spricht./Tränen./Welt nicht unter.
+410;Treppe benutzen.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Zum Erfolg gibt es keinen Lift. Man muss die;aus dem Sinn./Treppe benutzen./Weile haben.
+411;Tugend besteht.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Schönheit vergeht,;Zahn um Zahn./Tugend besteht./Weile.
+412;ziehen sich an.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Gegensätze;ziehen sich an./über Studieren./Berge versetzen.
+413;zu ändern ist.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Glücklich ist, wer vergisst, was nicht mehr;zu ändern ist./übrig bleibt./Böses dabei denkt.
+414;und Redlichkeit.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Üb immer Treu;wird nichts./und Redlichkeit./vergeht nicht.
+415;Unfriede verzehrt.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Friede ernährt,;als gar nichts./Unfriede verzehrt./Wahrheit kund.
+416;unter der Sonne.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Es geschieht nichts Neues;werden Leute./unter der Sonne./verträgt sich.
+417;Vater aller Dinge.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Der Krieg ist der;als dumm./Vater aller Dinge./Wahrheit spricht.
+418;vom Brot allein.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Der Mensch lebt nicht;vom Brot allein./verderben den Brei./weit vom Stamm.
+419;verpflichtet.;Eine kleine Weisheit. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Adel;wie gesprungen./verpflichtet./viel Ehr.
+420;Verteidigung.;Kannst du den Spruch ergänzen?"|"Im übertragenen Sinne."|"Angriff ist die beste;als nie./Verteidigung./Welten Lohn.
+421;verliert nichts.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Das Haus;verliert nichts./viel Schatten./wie Hose.
+422;wie gesprungen.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Das ist gehopst,;wie gesprungen./wagen./was geschenkt.
+423;werdet ihr finden.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Suchet, so;werdet ihr finden./warten nicht./zwitschern die Jungen.
+424;wird man klug.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Aus Fehlern;wird man klug./was Bessres findet./weicher Kern.
+425;viel Schatten.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Wo viel Licht ist, ist;viel Schatten./was er will./wie ein Bettler.
+426;weicher Kern.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Harte Schale,;weicher Kern./was erzählen./zur Besserung.
+427;wird man klug.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Durch Schaden;wird man klug./was geschenkt./wird Wirt.
+428;weit vom Stamm.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Der Apfel fällt nicht;weit vom Stamm./was hart macht./werdet ihr finden.
+429;was Bessres findet.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Drum prüfe, wer sich ewig bindet, ob sich nicht;was Bessres findet./was schenken./was erzählen.
+430;wird nichts.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Aus nichts;wird nichts./wäscht die andere./was schenken.
+431;was er will.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Der April macht,;was er will./weicher Kern./wem.
+432;werden nicht alle.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Die Narren;werden nicht alle./weicher Kern./wird endlich gut.
+433;viel Ehr.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Viel Feind,;viel Ehr./weit vom Stamm./wagen.
+434;wie ein Bettler.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"frühstücke wie ein König, iss zu Mittag wie ein Edelmann und zu Abend;wie ein Bettler./wem./wiegt man.
+435;vor dem Fall.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Hochmut kommt;vor dem Fall./werden Leute./werden nicht alle.
+436;verderben den Brei.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Zu viele Köche;verderben den Brei./werden nicht alle./was hart macht.
+437;wagen.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Erst wägen, dann;wagen./werdet ihr finden./wieder heraus.
+438;wie Hose.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Das ist Jacke;wie Hose./wie ein Bettler./wissen, wo es steht.
+439;verträgt sich.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Pack schlägt sich, Pack;verträgt sich./wie gesprungen./wird man klug.
+440;vergeht nicht.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Unkraut;vergeht nicht./wie Hose./wäscht die andere.
+441;was geschenkt.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Lieber den Magen verrenkt als dem Wirt;was geschenkt./wieder heraus./zum Narren.
+442;wissen, wo es steht.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Man muss nicht alles wissen, man muss nur;wissen, wo es steht./wiegt man./zum Handwerk.
+443;was hart macht.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Gelobt sei,;was hart macht./wird endlich gut./warten nicht.
+444;vor Eigennutz.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Gemeinnutz geht;vor Eigennutz./wird man klug./was er will.
+445;werden Leute.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Aus Kindern;werden Leute./wird man klug./weicher Kern.
+446;vor Recht.;Ein weiser Spruch. Übertragen zu verstehen."|"Wähle die sinnvolle Fortsetzung."|"Macht geht;vor Recht./wird nichts./was Bessres findet.
+447;was schenken.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Lieber den Magen verrenken als dem Wirt;was schenken./wird selig./zu ändern ist.
+448;weicher Kern.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"In einer rauen Schale steckt oft ein;weicher Kern./wird Wirt./ziehen sich an.
+449;wäscht die andere.;Ein weiser Spruch. Übertragen zu verstehen."|"Bitte sinnvoll fortsetzen."|"Eine Hand;wäscht die andere./wissen, wo es steht./wird selig.
+450;Wurst hat zwei.;Die Weisheit kommt im übertragenen Sinne."|"Ergänze bitte."|"Alles hat ein Ende, nur die;als Wasser./Wurst hat zwei./Zahn um Zahn.
+451;wird endlich gut.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Was lange währt,;wird endlich gut./ziehen sich an./zum Berg kommen.
+452;wiegt man.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wie man sich füttert, so;wiegt man./zieht ihn sich an./Auge trocken.
+453;was erzählen.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wenn einer eine Reise tut, so kann der;was erzählen./zu ändern ist./zwitschern die Jungen.
+454;warten nicht.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Zeit und Stunde;warten nicht./zum Berg kommen./April vorbei.
+455;wird selig.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wer's glaubt,;wird selig./zum Handwerk./übrig bleibt.
+456;wird Wirt.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wer nichts wird,;wird Wirt./zum Narren./über Studieren.
+457;wem.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Trau, schau,;wem./zur Besserung./zieht ihn sich an.
+458;wieder heraus.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Wie man in den Wald hineinruft, so schallt es auch;wieder heraus./zwitschern die Jungen./Anfang ist schwer.
+459;zur Besserung.;Ein weiser Spruch im übertragenen Sinne zu verstehen."|"Bitte sinnvoll fortsetzen."|"Einsicht ist der erste Schritt;zur Besserung./zwitschern die Jungen./Baum nicht mehr.

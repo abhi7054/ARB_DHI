@@ -1,0 +1,5 @@
+< 1;Dein Tempo doch etwas gering."¦"Oder hast du es gar nicht bis Ende gemacht?
+< 2;Du hast dir viel Zeit genommen."¦"Aber das ist ganz ok.
+< 3;Dein Tempo war im grünen Bereich."¦"Du musst nicht unbedingt schneller werden.
+< 9;Du warst super schnell."¦"Hauptsache: Alles sorgfältig gemacht?
+< 100;Du warst super schnell."¦"Hast du alles schon gewusst?

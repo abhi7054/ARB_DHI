@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorBlack"
+    android:paddingStart="@dimen/_5sdp"
+    app:paddingEnd="@dimen/_5sdp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/_7sdp"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingEnd="@dimen/_7sdp"
+        android:src="@drawable/ic_back_yellow" />
+
+    <ScrollView
+        style="@style/ScrollviewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_3sdp"
+            android:paddingEnd="@dimen/_3sdp"
+            android:paddingStart="@dimen/_3sdp">
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo1"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/infoString1" />
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo2"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_start_game_white"
+                android:text="@string/infoString2" />
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:text="@string/infoString3" />
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo3"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_timer_white"
+                android:text="@string/infoString4" />
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/infoString5" />
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo4"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_low_level_white"
+                android:text="@string/infoString6" />
+
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo5"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_medium_level_white"
+                android:text="@string/infoString7" />
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo6"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_high_level_white"
+                android:text="@string/infoString8" />
+
+            <TextView
+                android:textSize="@dimen/_11ssp"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:id="@+id/txtInfo7"
+                style="@style/TextViewStyleInfoScreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/infoString9" />
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,120 @@
+1;Affe tot.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Klappe zu,;Affe tot./Glück schon haben./Kleister.
+2;Erfolg haben.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Lasst uns dankbar sein, dass es Narren gibt. Ohne sie könnten wir anderen keinen;Erfolg haben./Geld das Geld./Liebeserklärung.
+3;Frucht der Zeit.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Freundschaft ist die Blüte des Augenblicks und die;Frucht der Zeit./Gold im Munde./Liebe.
+4;Flamme.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Kein Rauch ohne;Flamme./Hektar besteht./Morgen gejammert.
+5;Freude ernten.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Wer Liebe sät, wird;Freude ernten./Kutscher der Armut./Menschen Freund.
+6;Glück schon haben.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Ein wenig Hilfe will das;Glück schon haben./Krümel pieken./Meister werden will.
+7;Geld das Geld.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Erfolg erzeugt Erfolg wie;Geld das Geld./Kleister./Menschen im Leide.
+8;Gold im Munde.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Morgenstunde hat;Gold im Munde./Liebeserklärung./Ohren haben.
+9;Hektar besteht.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Liebe vergeht,;Hektar besteht./Liebe./Pyrenäen auf.
+10;Kutscher der Armut.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Hoffnung ist der;Kutscher der Armut./Morgen gejammert./Platz vergangen.
+11;Krümel pieken.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Wer nie sein Brot im Bette aß, weiß nicht, wie;Krümel pieken./Menschen Freund./Rosen gepflastert.
+12;Kleister.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Zu viele Meister verderben den;Kleister./Meister werden will./Sparkauf.
+13;Liebeserklärung.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Abschiedsworte müssen kurz sein wie eine;Liebeserklärung./Menschen im Leide./Steinen gepflastert.
+14;Liebe.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Gelegenheit macht;Liebe./Ohren haben./Silber und Gold.
+15;Morgen gejammert.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Am Abend gekammert, am;Morgen gejammert./Pyrenäen auf./Sparsamkeit die linke.
+16;Menschen Freund.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Die Nacht ist keines;Platz vergangen./Schatten voraus./Menschen Freund.
+17;Meister werden will.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"früh übt sich, wer ein;Rosen gepflastert./Schrecken ohne Ende./Meister werden will.
+18;Menschen im Leide.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Gold läutert man im Feuer,;Sparkauf./Seife hinein./Menschen im Leide.
+19;Ohren haben.;Kluge Sprüche abgewandelt."|"Ergänze korrekt."|"Ein Richter soll zwei gleiche;Steinen gepflastert./Schuh daraus./Ohren haben.
+20;Pyrenäen auf.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Europa hört an den;Silber und Gold./Strafe nicht./Pyrenäen auf.
+21;Platz vergangen.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Weggegangen,;Sparsamkeit die linke./Vorsätzen gepflastert./Platz vergangen.
+22;Rosen gepflastert.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Der Weg zum Ruhm ist nicht mit;Schatten voraus./Widerwärtigkeit./Rosen gepflastert.
+23;Sparkauf.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Barkauf ist;Schrecken ohne Ende./Zusammenseins./Sparkauf.
+24;Steinen gepflastert.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Der Weg zur Hölle ist mit;Seife hinein./Zeitung einnimmt./Steinen gepflastert.
+25;Silber und Gold.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Ein guter Name ist mehr wert als;Schuh daraus./alles gelegen./Silber und Gold.
+26;Sparsamkeit die linke.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Fleiß ist des Glückes rechte Hand,;Strafe nicht./alle Katzen grau./Sparsamkeit die linke.
+27;Schatten voraus.;Kluge Sprüche abgewandelt."|"Was passt dazu?"|"Große Dinge werfen ihren;Vorsätzen gepflastert./aller Rauschgifte./Schatten voraus.
+28;Schrecken ohne Ende.;Ein weiser Spruch."|"Was passt dazu?"|"Lieber ein Schrecken mit Ende als ein;Widerwärtigkeit./als das Wort./Schrecken ohne Ende.
+29;Seife hinein.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Über Geschmack lässt sich nicht streiten, sagte der Affe und biss in die;Zusammenseins./aber aus Respekt./Seife hinein.
+30;Schuh daraus.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Umgekehrt wird ein;Zeitung einnimmt./als erhalten./Schuh daraus.
+31;Strafe nicht.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Unwissenheit schützt vor;Strafe nicht./alles gelegen./alt geschaufelt.
+32;Vorsätzen gepflastert.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Der Weg zur Hölle ist mit guten;Vorsätzen gepflastert./alle Katzen grau./anders atmet.
+33;Widerwärtigkeit.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Ein Nein zur rechten Zeit erspart viel;Widerwärtigkeit./aller Rauschgifte./auch ans Ziel.
+34;Zusammenseins.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Abschied: Die innigste Weise menschlichen;Zusammenseins./als das Wort./auch ein Pärchen.
+35;Zeitung einnimmt.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Der Raum, den man in der;Zeitung einnimmt./aber aus Respekt./bekommen kann.
+36;alles gelegen.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"An Gottes Segen ist;alles gelegen./als erhalten./bis er bricht.
+37;alle Katzen grau.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Bei Nacht sind;alle Katzen grau./alt geschaufelt./doppelte Freude.
+38;aller Rauschgifte.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Das gefährlichste;aller Rauschgifte./anders atmet./der Erinnerung.
+39;als das Wort.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Die Tat wirkt mächtiger;als das Wort./auch ans Ziel./den Menschen.
+40;aber aus Respekt.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Freundschaft fließt aus vielen Quellen, am reinsten;aber aus Respekt./auch ein Pärchen./deiner Einsamkeit.
+41;als erhalten.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Freundschaft ist wie Geld, leichter gewonnen;als erhalten./bekommen kann./deinem Leisten.
+42;alt geschaufelt.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"frisch gebaggert ist besser als;alt geschaufelt./bis er bricht./die Propheten.
+43;anders atmet.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Mein Freund, ich brauche dich wie eine Höhe in der man;anders atmet./doppelte Freude./ertragen vermögen.
+44;auch ans Ziel.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Schritt vor Schritt kommt;auch ans Ziel./der Erinnerung./erquickend und labend.
+45;auch ein Pärchen.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Zwei, die niemand will, geben;auch ein Pärchen./den Menschen./ein Schuh draus.
+46;bekommen kann.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Arm ist nicht, wer wenig hat, sondern der, der nicht genug;bekommen kann./deiner Einsamkeit./für die Reichen.
+47;bis er bricht.;Eine etwas veränderte Weisheit."|"Was passt dazu?"|"Der Krug geht so lange zum Wasser,;faule Mädchen./bis er bricht./deinem Leisten.
+48;doppelte Freude.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Geteilter Scherz ist halber Schmerz, geteilte Freude ist;faul zum Suchen./doppelte Freude./die Propheten.
+49;der Erinnerung.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Im Abschied ist die Geburt;geraden Schatten./der Erinnerung./ertragen vermögen.
+50;den Menschen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Rost frisst Eisen, Sorge;gleiche Kappen./den Menschen./erquickend und labend.
+51;deiner Einsamkeit.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Schenken ist ein Brückenschlag über den Abgrund;große Beulen./deiner Einsamkeit./ein Schuh draus.
+52;deinem Leisten.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Schuster, bleib bei;größer der Schaden./deinem Leisten./für die Reichen.
+53;die Propheten.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Wie kommt Saul unter;gute Sitten./die Propheten./faule Mädchen.
+54;ertragen vermögen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Freundschaft und Liebe werden an den Enttäuschungen gemessen, die sie zu;geht viel irre./ertragen vermögen./faul zum Suchen.
+55;erquickend und labend.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Spinne am Abend;gelten die Stümper./erquickend und labend./geraden Schatten.
+56;ein Schuh draus.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Umgekehrt wird;hilft Gott./ein Schuh draus./gleiche Kappen.
+57;für die Reichen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Aus deutschen Eichen, macht man keine Galgen;hervorragenden Geister./für die Reichen./große Beulen.
+58;faule Mädchen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Lange Fädchen,;hat nie gereut./faule Mädchen./größer der Schaden.
+59;faul zum Suchen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Wer Ordnung hält, ist zu;hat auch Likör./faul zum Suchen./gute Sitten.
+60;geraden Schatten.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Ein krummer Stecken wirft keinen;ist dumm./geraden Schatten./geht viel irre.
+61;gleiche Kappen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Gleiche Brüder,;ist Sorgenland./gleiche Kappen./gelten die Stümper.
+62;große Beulen.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Große Keulen schlagen;in Not./große Beulen./hilft Gott.
+63;größer der Schaden.;Eine etwas veränderte Weisheit."|"Ergänze bitte."|"Je größer der Narr, desto;in der Kirche./größer der Schaden./hervorragenden Geister.
+64;gute Sitten.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"Schlechte Beispiele verderben;gute Sitten./hat nie gereut./in der Hölle.
+65;geht viel irre.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"Wer viel fragt,;geht viel irre./hat auch Likör./im Hühnerstall.
+66;gelten die Stümper.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"Wo kein Meister ist, da;gelten die Stümper./ist dumm./ist halber Sieg.
+67;hilft Gott.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"Dem Fleißigen;hilft Gott./ist Sorgenland./im Mädchenklo.
+68;hervorragenden Geister.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"Einsamkeit ist das Los aller;hervorragenden Geister./in Not./in den Garten.
+69;hat nie gereut.;Kennst du den weisen Spruch?"|"Ergänze bitte."|"früh gefreit;hat nie gereut./in der Kirche./keine Kammern.
+70;hat auch Likör.;Kennst du den weisen Spruch?"|"Bitte ergänzen."|"Wer Sorgen hat,;hat auch Likör./in der Hölle./keine Tugend.
+71;ist dumm.;Kennst du den weisen Spruch?"|"Bitte ergänzen."|"Allzu klug;ist dumm./im Hühnerstall./keine Feinde mehr.
+72;ist Sorgenland.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Auch Morgenland;ist Sorgenland./ist halber Sieg./klug.
+73;in Not.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Da ist Holland;in Not./im Mädchenklo./kommt auch an.
+74;in der Kirche.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Das ist so gewiss wie das Amen;in der Kirche./in den Garten./klagt sich an.
+75;in der Hölle.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Der Neid gönnt dem Teufel nicht die Hitze;in der Hölle./keine Kammern./kommt darin um.
+76;im Hühnerstall.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Die Bratwurst sucht man nicht;im Hühnerstall./keine Tugend./kein Richter.
+77;ist halber Sieg.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Guter Start;ist halber Sieg./keine Feinde mehr./kein Richter.
+78;im Mädchenklo.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Lebe glücklich, lebe froh, wie der Frosch;im Mädchenklo./klug./keine Lieder.
+79;in den Garten.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Nur die Harten kommen;in den Garten./kommt auch an./macht schartig.
+80;keine Kammern.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Jammern füllt;keine Kammern./klagt sich an./man die Gilde.
+81;keine Tugend.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Jugend kennt;keine Tugend./kommt darin um./mit Verstand.
+82;keine Feinde mehr.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Mit solchen Freunden braucht man;kein Richter./macht Wangen rot./keine Feinde mehr.
+83;klug.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Versuch macht;kein Richter./nur eine Nacht./klug.
+84;kommt auch an.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Wer sachte fährt,;keine Lieder./sein Königreich./kommt auch an.
+85;klagt sich an.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Wer sich entschuldigt,;macht schartig./selber welche./klagt sich an.
+86;kommt darin um.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Wer sich in Gefahr begibt,;man die Gilde./seinen Schläfer./kommt darin um.
+87;kein Richter.;Kennst du den weisen Spruch auch etwas anders?"|"Bitte ergänzen."|"Wo kein Kläger ist, da ist auch;mit Verstand./studiert nicht gern./kein Richter.
+88;kein Richter.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wo kein Kläger ist, ist auch;macht Wangen rot./schwere Hand./kein Richter.
+89;keine Lieder.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wo man singt, da lasse dich ruhig nieder, denn böse Menschen kennen;nur eine Nacht./schmal denken./keine Lieder.
+90;macht schartig.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Allzu scharf;sein Königreich./sein Johannes./macht schartig.
+91;man die Gilde.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Am Schilde erkennt;selber welche./sich die Geier./man die Gilde.
+92;mit Verstand.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Freundschaft: so etwas wie Liebe;seinen Schläfer./statt Brücken./mit Verstand.
+93;macht Wangen rot.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Trocken Brot;studiert nicht gern./selbst hinein./macht Wangen rot.
+94;nur eine Nacht.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Eine Freundschaft, die der Wein macht, wirkt wie der Wein;schwere Hand./sein Gescherr./nur eine Nacht.
+95;sein Königreich.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Des Menschen Wille ist;schmal denken./schweigt das Gerücht./sein Königreich.
+96;selber welche.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Die größten Kritiker der Elche waren früher;sein Johannes./und labend./selber welche.
+97;seinen Schläfer.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Ein gutes Bett wäscht;sich die Geier./vieler Töchter./seinen Schläfer.
+98;studiert nicht gern.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Ein leerer Bauch;statt Brücken./viel Schatten./studiert nicht gern.
+99;schwere Hand.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Geld braucht eine;selbst hinein./wenn du da bist./schwere Hand.
+100;schmal denken.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Lieber breit grinsen als;sein Gescherr./wenig Wolle./schmal denken.
+101;sein Johannes.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"So wie die Nase eines Mannes, so auch;schweigt das Gerücht./was verzählen./sein Johannes.
+102;sich die Geier.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Überall wo ein Aas ist, da sammeln;und labend./was zu werden./sich die Geier.
+103;statt Brücken.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Viele Menschen sind nur deshalb einsam, weil sie Dämme bauen;vieler Töchter./wohl entbehren./statt Brücken.
+104;selbst hinein.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wer anderen eine Grube gräbt, fällt;viel Schatten./zu betrachten./selbst hinein.
+105;sein Gescherr.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wie der Herr, so;wenn du da bist./zwischen den Ufern./sein Gescherr.
+106;schweigt das Gerücht.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wo man selber spricht,;schweigt das Gerücht./wenig Wolle./zwitschern die Jungen.
+107;und labend.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Spinne am Abend erquickend;und labend./was verzählen./zum Erfolg.
+108;vieler Töchter.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Der Wunsch nach einem Stammhalter ist der Vater;vieler Töchter./was zu werden./über die Zufälle.
+109;viel Schatten.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wo viel Licht ist, ist auch;viel Schatten./wohl entbehren./wenig Korn.
+110;wenn du da bist.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Gehe erst über die Brücke,;wenn du da bist./zu betrachten./Affe tot.
+111;wenig Wolle.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Viel Geschrei und;wenig Wolle./zwischen den Ufern./Erfolg haben.
+112;was verzählen.;Kennst du den weisen Spruch auch etwas anders?"|"Wie ist er zu ergänzen?"|"Wenn einer eine Reise tut, so kann der;was verzählen./zwitschern die Jungen./Frucht der Zeit.
+113;was zu werden.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Wer denkt, was zu sein, hört auf,;was zu werden./zum Erfolg./Flamme.
+114;wohl entbehren.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Wer gut isst und trinkt, kann schwere Arbeit;wohl entbehren./über die Zufälle./Freude ernten.
+115;zu betrachten.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Erfolg ist eine Denkweise. Wenn du Erfolg willst, fange an, dich selbst als Erfolg;zu betrachten./wenig Korn./Glück schon haben.
+116;zwischen den Ufern.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Hüte dich vor der Gleichgültigkeit, denn sie ist der Flößer;zwischen den Ufern./Affe tot./Geld das Geld.
+117;zwitschern die Jungen.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"So wie die Alten pfeifen, so;zwitschern die Jungen./Erfolg haben./Gold im Munde.
+118;zum Erfolg.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Unzufriedenheit ist der erste Schritt;zum Erfolg./Frucht der Zeit./Hektar besteht.
+119;über die Zufälle.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Der Sieg der Einfälle;über die Zufälle./Flamme./Kutscher der Armut.
+120;wenig Korn.;Kennst du den weisen Spruch?"|"Wie ist er zu ergänzen?"|"Viel Stroh,;wenig Korn./Freude ernten./Krümel pieken.

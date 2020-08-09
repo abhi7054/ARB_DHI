@@ -1,0 +1,57 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    supportDependencies = [
+
+            supportAppcompact  : "com.android.support:appcompat-v7:25.+",
+            designSupport      : "com.android.support:design:25.0.0",
+            designSupportV4    : "com.android.support:support-v4:25.0.0",
+            annotationProcessor: "com.jakewharton:butterknife-compiler:8.6.0",
+            butterknife        : "com.jakewharton:butterknife:8.6.0",
+            sdpgradle          : "com.intuit.sdp:sdp-android:1.0.4",
+            sspgradle          : "com.intuit.ssp:ssp-android:1.0.4",
+            calligraphy        : "uk.co.chrisjenx:calligraphy:2.1.0",
+            calligraphy        : "uk.co.chrisjenx:calligraphy:2.1.0",
+            easing             : "com.daimajia.easing:library:2.0@aar",//animation yo yo
+            androidanimations  : "com.daimajia.androidanimations:library:2.2@aar",//animation yo yo
+            recyclerview       : "com.android.support:recyclerview-v7:25.0.0"
+
+           /* glide              : "com.github.bumptech.glide:glide:3.8.0",
+            eventbus           : "com.squareup:otto:1.3.8",
+            firebaseads        : "com.google.firebase:firebase-ads:10.0.1",
+            firebaseinvites    : "com.google.firebase:firebase-invites:10.0.1",
+            firebaseCore       : "com.google.firebase:firebase-core:10.0.1",
+            designSupport      : "com.android.support:design:25.0.0",
+            designSupportV4    : "com.android.support:support-v4:25.2.0",
+            cardView           : "com.android.support:cardview-v7:24.0.0",
+            multipleImagePicker: "com.github.darsh2:MultipleImageSelect:v0.0.4",
+            firebaseMessaging  : "com.google.firebase:firebase-messaging:10.0.1",
+            cardView           : "com.android.support:cardview-v7:24.0.0",
+            recyclerview       : "com.android.support:recyclerview-v7:25.3.1",
+            ratingbar          : "com.github.whinc:ratingbar:1.1.1"*/
+
+    ]
+
+}

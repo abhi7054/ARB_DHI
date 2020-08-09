@@ -1,0 +1,8 @@
+< 4;Entschuldigung, das war nix!"¦"Aber noch ist nicht aller Tage Abend.
+< 16;Ok. Du hast nicht so viel gemacht."¦"Aber doch was gelernt?
+< 39;Ziemlich gut."¦"Mehr Training: Weiter!
+< 61;Du warst echt gut, mein Lieber"¦"Lehn dich nicht zurück!"¦"Du kannst dich noch verbessern.
+< 63;OK. Du warst großartig."¦"Kein Grund zu stoppen."¦"Versuche den Power-Modus!
+< 71;Super! Perfekt!"¦"Sei nicht zufrieden."¦"Spiel nur weiter.
+< 79;Wirklich toll war das, mein Freund!"¦"Es gibt noch mehr interessante Fragen.
+< 180;Exzellent! Wirklich gut warst du hier, mein Freund!"¦"Ab zum Power-Modus!

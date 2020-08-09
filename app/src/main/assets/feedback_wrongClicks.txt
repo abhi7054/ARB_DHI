@@ -1,0 +1,4 @@
+= 0;Deine Antworten waren immer richtig.
+= 1;Du hast gerade [x] mal falsch geklickt.
+> 3;Aber leider [x] falsche Antworten."¦"Dann hast du aber auch gesehen, was richtig war.
+> 1;Aber du hast [x] mal falsch geklickt."¦"Aus Fehlern lernst du.

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Deutsch Namen Quiz</string>
+
+    <string name="font_regular">arial.ttf</string>
+    <string name="font_bold">arialbd.ttf</string>
+    <string name="start"><![CDATA[>> Start <<]]></string>
+    <string name="frage">Frage:"</string>
+    <string name="stop">Stop</string>
+
+    <string name="w_hle_spielmodus_stufe_dann_den_bereich">Wähle Spielmodus + Stufe, dann den Bereich.</string>
+    <string name="singular">Singular</string>
+    <string name="plural">Plural</string>
+    <string name="deine_bewertung">Deine Bewertung:</string>
+    <string name="dein_tempo">Dein Tempo:</string>
+    <string name="namenkunde_personen">Idiome verstehen</string>
+    <string name="namenkunde_basis">Idiomatik</string>
+    <string name="namenkunde_orte">Idiome verstehen</string>
+
+    <string name="infoString1">Mit "Locker vom Hocker" lernst du spielerisch etwas über deutsche Idiome.\nIm Menü unten wählst du zunächst die Übungsart:</string>
+
+    <string name="infoString2">_Dies ist der Spielmodus.</string>
+
+    <string name="infoString3">Nach 25 Fragen bekommst du jeweils eine Auswertung. Du kannst das Spiel auch über den Menü-Button frühzeitig beenden.
+    </string>
+    <string name="infoString4">_Dies ist der Powermodus. Antworte schnell</string>
+    <string name="infoString5"> und versuche, in kurzer Zeit viele richtige Antworten zu geben. Du bestimmst selbst, wie lange die Übung dauert ! Wenn du dein Spiel beendet hast, bekommst du eine Auswertung.</string>
+   <string name="infoString6">_Hier sind die Fragen leicht.</string>
+    <string name="infoString7">_Hier sind die Fragen schwerer.</string>
+    <string name="infoString8">_Hier wird die Schwierigkeit gemischt.</string>
+    <string name="infoString9">Danach wählst du eine der Kategorien im Menü aus.
+\n\nAls Bonbon bekommst du eine kleine Einführung in die Idiomatik.
+        \nVielleicht ist auch etwas zu deinem eigenen Namen hier drin.
+        \n\nViel Spaß beim Spiel!
+</string>
+    <string name="deine_fehler">Deine Fehler:</string>
+    <string name="du_hast">Du hast</string>
+
+    <string name="Frage_bearbeitet_Dabei_hast_du">Fragen bearbeitet.\n Dabei hast du</string>
+    <string name="fehler_gemacht">Fehler gemacht.</string>
+
+    <!--New-->
+
+    <string name="was_waren_die_so">Was waren die so?</string>
+    <string name="was_stecket_da_drin">Was steckt da drin?</string>
+    <string name="woher_denn">Woher denn?</string>
+    <string name="wenn_namen_sprechen">Wenn Namen sprechen</string>
+    <string name="leicht_ratselhaft">Leicht rätselhaft</string>
+    <string name="basis">Basis</string>
+    <string name="personen">Deuten</string>
+    <string name="orte">Mehr</string>
+    <string name="minuten_gespielt_und_dich_mit">Minuten gespielt und\n dich mit</string>
+    <string name="fragen_befasst_dabei_hast_du_einiges_gelern_denn_du_hast">Fragen befasst.\n Dabei hast  du  Einiges gelernt.\nDenn du hast</string>
+    <string name="mal_falsch_gelegen_geht_es_noch_besser">mal falsch gelegen.\nGeht es noch besser?</string>
+
+
+</resources>

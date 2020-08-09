@@ -1,0 +1,369 @@
+1;auf den Plan rufen;Wie heißt die Fügung für"|"bewirken, dass jemand eingreift"|"Die Baumfällarbeiten haben die Naturschützer auf den Plan gerufen.;auf den Plan rufen/am helllichten Tag/ans Licht kommen
+2;abfärben;Wie heißt das Wort für"|"beeinflussen"|"Ihr schlechtes Benehmen färbt auf die anderen Schüler ab.;abfärben/am Ruder sein/Anstalten machen
+3;abgewirtschaftet haben;Wie heißt die Fügung für"|"am Ende sein"|"Diese Regierung hat abgewirtschaftet.;abgewirtschaftet haben/am Totenbett/anstatt, dass {...}
+4;abschlägig bescheiden;Entnimm aus dem Satz die Fügung für"|"ablehnen"|"Sein Antrag wurde abschlägig beschieden.;abschlägig bescheiden/am Tropf hängen/auf dem Gerichtsweg
+5;abschreiben;Wie heißt das Wort C44 für"|"nicht mehr mit rechnen"|"Deine Freundin kannst du abschreiben, die siehst du so bald nicht wieder.;abschreiben/an Bord/auf dem Laufenden
+6;abwärts gehen;Wie heißt die Fügung für"|"fallen"|"Mit der Wirtschaft geht es weiter abwärts.;abwärts gehen/an den Haaren herbeiziehen/auf dem Wasserweg
+7;alles eine Frage ...;Entnimm aus dem Satz die Fügung für"|"es hängt alles ab von ..."|"Das ist alles eine Frage des Geldes.;alles eine Frage .../an der Tagesordnung/auf der Durchreise
+8;am grünen Tisch;Wie heißt die Fügung für"|"ohne Rücksicht auf die Wirklichkeit"|"Vom grünen Tisch aus planen bringt oft Probleme in der Praxis.;am grünen Tisch/ans Eingemachte gehen/auf die Folter spannen
+9;am helllichten Tag;Wie heißt die Fügung für"|"erstaunt: bei vollem Tageslicht"|"Am helllichten Tag hat man bei uns eingebrochen!;am helllichten Tag/ans Licht kommen/auf die Menschheit loslassen
+10;am Ruder sein;Wie heißt die Fügung für"|"an der Macht sein"|"Welche Partei ist in der Gemeinde gerade am Ruder?;am Ruder sein/Anstalten machen/auf die Probe stellen
+11;am Totenbett;Wie heißt die Fügung für"|"bei einem Sterbenden"|"Das wurde ihr am Totenbett versprochen.;am Totenbett/anstatt, dass {...}/auf die Schnelle
+12;am Tropf hängen;Wie heißt die Fügung für"|"finanziell unselbständig sein"|"Das Unternehmen hängt am Tropf des Staates.;am Tropf hängen/auf dem Gerichtsweg/auf einen Schlag
+13;an Bord;Aus dem Satz die feste Fügung für"|"auf einem Schiff"|"Alle Passagiere sind an Bord.;an Bord/auf dem Laufenden/auf Eis legen
+14;an den Haaren herbeiziehen;Entnimm aus dem Satz die Fügung für"|"was kaum mit der Sache zu tun hat"|"Diese Begründung ist aber wirklich an den Haaren herbeigezogen.;an den Haaren herbeiziehen/auf dem Wasserweg/auf etwas herumreiten
+15;an der Tagesordnung;Aus dem Satz die feste Fügung für"|"gewöhnlich, regelmäßig geschehen"|"Einbrüche und Überfälle sind in dieser Gegend an der Tagesordnung.;an der Tagesordnung/auf der Durchreise/auf Gedeih und Verderb
+16;ans Eingemachte gehen;Wie heißt die Fügung für"|"alle Kraft erfordern"|"Der Aufstieg ging ganz schön ans Eingemachte.;ans Eingemachte gehen/auf die Folter spannen/auf gut Glück
+17;ans Licht kommen;Wie heißt die Fügung für"|"offenbar werden"|"Irgendwann kommt jeder Betrug ans Licht.;ans Licht kommen/auf die Menschheit loslassen/auf keine Kuhhaut gehen
+18;Anstalten machen;Entnimm aus dem Satz die Fügung für"|"tun wollen"|"Er macht keine Anstalten, für die Prüfung zu lernen.;Anstalten machen/auf die Probe stellen/auf Lebenszeit
+19;anstatt, dass {...};Wähle die Fügung für"|"alternativ"|"Anstatt dass du schimpfst, solltest du lieber helfen.;anstatt, dass {...}/auf die Schnelle/auf losgehen
+20;auf dem Gerichtsweg;Wie heißt die Fügung für"|"mithilfe des Gerichts"|"Ich muss wohl auf dem Gerichtsweg gegen ihn vorgehen.;auf dem Gerichtsweg/auf einen Schlag/auf Provisionsbasis
+21;auf dem Laufenden;Aus dem Satz die feste Fügung für"|"immer informiert"|"Wer immer auf dem Laufenden ist, kann sich auf Manches einstellen.;auf dem Laufenden/auf Eis legen/auf seinem Mist gewachsen
+22;auf dem Wasserweg;Wie heißt die Fügung für"|"mit dem Schiff"|"Billiger ist es, Waren auf dem Wasserweg zu transportieren.;auf etwas herumreiten/auf sich zukommen lassen/auf dem Wasserweg
+23;auf der Durchreise;Wie heißt die Fügung für"|"nur vorübergehender Aufenthalt"|"Wir wollen nicht länger bleiben, wir sind auf der Durchreise.;auf Gedeih und Verderb/auf Sparflamme/auf der Durchreise
+24;auf die Folter spannen;Wie heißt die Fügung für"|"bewusst Informationen vorenthalten"|"Spannt mich doch nicht so lange auf die Folter!;auf gut Glück/auf Verdacht/auf die Folter spannen
+25;auf die Menschheit loslassen;Wie heißt die Fügung für"|"Unfähige tätig werden lassen"|"Diesen unerfahrenen Arzt kann man doch nicht auf die Menschheit loslassen.;auf keine Kuhhaut gehen/auf Zack sein/auf die Menschheit loslassen
+26;auf die Probe stellen;Wie heißt die Fügung für"|"testen"|"Man sollte ihn mal auf die Probe stellen.;auf Lebenszeit/auf Zuwachs/auf die Probe stellen
+27;auf die Schnelle;Wie heißt die Fügung für"|"sehr rasch, ohne Anstrengung"|"Sie wollte auf die Schnelle noch einen Brief schreiben.;auf losgehen/aufräumen/auf die Schnelle
+28;auf einen Schlag;Wähle die Fügung für"|"auf einmal, nicht stückchenweise"|"Sie haben auf einen Schlag 2 Millionen Euro gewonnen.;auf Provisionsbasis/aufs Geratewohl/auf einen Schlag
+29;auf Eis legen;Wie heißt die Fügung für"|"etwas verschieben"|"Die Sache ist auf Eis gelegt.;auf seinem Mist gewachsen/aus dem Dreck ziehen/auf Eis legen
+30;auf etwas herumreiten;Entnimm aus dem Satz die Fügung für"|"immer wieder erwähnen"|"Nun reite doch nicht immer wieder auf diesem leidigen Thema herum!;auf sich zukommen lassen/aus dem Effeff/auf etwas herumreiten
+31;auf Gedeih und Verderb;Wie heißt die Fügung für"|"bedingungslos"|"Die Geiseln waren den Kidnappern auf Gedeih und Verderb ausgeliefert.;auf Sparflamme/aus dem Verkehr ziehen/auf Gedeih und Verderb
+32;auf gut Glück;Wie heißt die Fügung für"|"ohne sicheren Erfolg"|"Lass uns doch mal auf gut Glück probieren.;auf Verdacht/aus den Angeln heben/auf gut Glück
+33;auf keine Kuhhaut gehen;Aus dem Satz die feste Fügung für"|"höchst unerhört"|"Was ich dort erlebt habe, geht auf keine Kuhhaut.;auf Zack sein/aus den Latschen kippen/auf keine Kuhhaut gehen
+34;auf Lebenszeit;Wie heißt die Fügung für"|"für das gesamte Leben"|"Wer möchte nicht eine Rente auf Lebenszeit.;auf Zuwachs/aus der Retorte/auf Lebenszeit
+35;auf losgehen;Wie heißt die Fügung für"|"angreifen"|"Er ging mit den Fäusten auf seinen Gegner los.;aufräumen/aus Leibeskräften/auf losgehen
+36;auf Provisionsbasis;Bitte die feste Fügung für"|"in Form einer Provision"|"Auf Provisionsbasis zu arbeiten kann schlecht sein.;aufs Geratewohl/aus Übersee/auf Provisionsbasis
+37;auf seinem Mist gewachsen;Wie heißt die Fügung für"|"nicht stammen von einem selbst"|"Diese Idee ist aber nicht auf deinem Mist gewachsen.;aus dem Dreck ziehen/aus vollem Halse/auf seinem Mist gewachsen
+38;auf sich zukommen lassen;Bitte die feste Fügung für"|"vorerst abwarten"|"Das lassen wir erst einmal auf uns zukommen.;aus dem Effeff/ausgedient/auf sich zukommen lassen
+39;auf Sparflamme;Wie heißt die Fügung für"|"mit geringem Kraftaufwand"|"Er arbeitet nur noch auf Sparflamme.;aus dem Verkehr ziehen/außer Rand und Band/auf Sparflamme
+40;auf Verdacht;Bitte die feste Fügung für"|"in der Annahme, dass etwas richtig ist"|"Ich habe auf Verdacht ein paar Flaschen Saft mehr gekauft.;aus den Angeln heben/Bände sprechen/auf Verdacht
+41;auf Zack sein;Wie heißt die Fügung für"|"bei etwas sehr gut und effektiv arbeiten"|"Die Klasse ist wirklich auf Zack, sie hat das ganze Fest selbst organisiert.;aus den Latschen kippen/bedient/auf Zack sein
+42;auf Zuwachs;Aus dem Satz die feste Fügung für"|"für die Zukunft auf Vorrat"|"Man sollte den Pullover für ein Kind auf Zuwachs kaufen.;aus der Retorte/bevor nicht/auf Zuwachs
+43;aufräumen;Wie heißt die Fügung für"|"mit Schluss machen"|"Mit Vorurteilen wollen wir aufräumen.;aus Leibeskräften/bis in die Puppen/aufräumen
+44;aufs Geratewohl;Wähle die Fügung für"|"auf gut Glück"|"Wir haben unsere Räder geholt und sind aufs Geratewohl losgefahren.;aus Übersee/bis ins Unendliche/aufs Geratewohl
+45;aus dem Dreck ziehen;Wie heißt die Fügung für"|"aus Schwierigkeiten heraushelfen"|"Wer kann den Karren aus dem Dreck ziehen?;aus vollem Halse/bis ins Unermessliche/aus dem Dreck ziehen
+46;aus dem Effeff;Entnimm aus dem Satz die Fügung für"|"sehr gut können"|"Sie konnte alle neuen Vokabeln aus dem Effeff.;ausgedient/bis zum Gehtnichtmehr/aus dem Effeff
+47;aus dem Verkehr ziehen;Entnimm aus dem Satz die Fügung für"|"nicht mehr zulassen"|"Die alten Geldscheine und Münzen wurden aus dem Verkehr gezogen.;außer Rand und Band/blauer Brief/aus dem Verkehr ziehen
+48;aus den Angeln heben;Entnimm aus dem Satz die Fügung für"|"grundlegend ändern"|"Junge Leute wollen oft noch die Welt aus den Angeln heben.;aus den Angeln heben/Bände sprechen/das alte Lied
+49;aus den Latschen kippen;Wie heißt die Fügung für"|"die Fassung verlieren"|"Nach dem 1000-m-Lauf ist sie aus den Latschen gekippt.;aus den Latschen kippen/bedient/das Deine
+50;aus der Retorte;Wie heißt die Fügung für"|"künstlich hergestellt"|"Wir alle essen Lebensmittel aus der Retorte.;aus der Retorte/bevor nicht/das dicke Ende
+51;aus Leibeskräften;Wie heißt die Fügung für"|"mit aller Kraft"|"Da sollte man aus Leibeskräften schreien.;aus Leibeskräften/bis in die Puppen/das Gelbe vom Ei
+52;aus Übersee;Wähle die Fügung für"|"aus einem Land jenseits des Atlantiks"|"Dies sind Schiffe, die schwer beladen aus Übersee kommen.;aus Übersee/bis ins Unendliche/das Wohl und Wehe
+53;aus vollem Halse;Wie heißt die Fügung für"|"sehr laut"|"Aus vollem Halse lachte da die ganze Gesellschaft.;aus vollem Halse/bis ins Unermessliche/das Zeug zu etwas haben
+54;ausgedient;Wie heißt das Wort für"|"nicht mehr brauchbar sein"|"Die Waschmaschine hat ausgedient.;ausgedient/bis zum Gehtnichtmehr/dazu gehören
+55;außer Rand und Band;Wie heißt die Fügung für"|"sehr aufgeregt und wild"|"Die Kinder sind ja heute außer Rand und Band.;außer Rand und Band/blauer Brief/den Anfang machen
+56;Bände sprechen;Wähle die Fügung für"|"hohe Aussagekraft haben"|"Sein Verhalten spricht Bände.;Bände sprechen/das alte Lied/den Ausschlag geben
+57;bedient;Aus dem Satz das Wort C96 für"|"genug haben"|"Also mir reicht's jetzt, ich bin bedient für heute.;bedient/das Deine/den Blick auf etwas heften
+58;bevor nicht;Wie heißt die Fügung für"|"zu erfüllende Bedingung"|"Bevor nicht alle Teilnehmer da sind, kann die Besprechung nicht beginnen.;bevor nicht/das dicke Ende/den Garaus machen
+59;bis in die Puppen;Wie heißt die Fügung für"|"sehr lange"|"Dann haben sie bis in die Puppen geschlafen.;bis in die Puppen/das Gelbe vom Ei/den Todesstoß versetzen
+60;bis ins Unendliche;Aus dem Satz die feste Fügung für"|"immer wieder"|"Das haben wir nun bis ins Unendliche geübt.;bis ins Unendliche/das Wohl und Wehe/den Weg ebnen
+61;bis ins Unermessliche;Bitte die feste Fügung für"|"in grenzenlosem Maße"|"Die Schmerzen steigerten sich bis ins Unermessliche.;bis ins Unermessliche/das Zeug zu etwas haben/der erste beste
+62;bis zum Gehtnichtmehr;Wie heißt die Fügung für"|"bis zum Überdruss"|"Wir haben das Stück bis zum Gehtnichtmehr geübt.;bis zum Gehtnichtmehr/dazu gehören/der große Wurf
+63;blauer Brief;Wie heißt die Fügung für"|"briefliche Warnung"|"Gestern kam ein blauer Brief von der Schule.;blauer Brief/den Anfang machen/der gute Ton
+64;das alte Lied;Aus dem Satz die feste Fügung für"|"immer dasselbe"|"Es ist doch das alte Lied mit dir, du kommst nie pünktlich.;das alte Lied/den Ausschlag geben/der gute Wille
+65;das Deine;Wie heißt die Fügung für"|"deinen Anteil"|"Du musst das Deine dazu tun.;das Deine/den Blick auf etwas heften/des Langen und Breiten
+66;das dicke Ende;Wie heißt die Fügung für"|"das Unangenehme"|"Das dicke Ende kommt erst noch.;das dicke Ende/den Garaus machen/dicke haben
+67;das Gelbe vom Ei;Wie heißt die Fügung für"|"das Beste"|"Dieser Vorschlag ist nicht gerade das Gelbe vom Ei.;das Gelbe vom Ei/den Todesstoß versetzen/die alte Leier
+68;das Wohl und Wehe;Wie heißt die Fügung für"|"wie es jemandem ergeht"|"Das wird über unser Wohl und Wehe entscheiden.;das Wohl und Wehe/den Weg ebnen/die Augen funkeln
+69;das Zeug zu etwas haben;Wie heißt die Fügung für"|"die nötigen Fähigkeiten zu etwas haben"|"Sie hat kaum das Zeug zur Firmenchefin.;das Zeug zu etwas haben/der erste beste/die Fresse halten
+70;dazu gehören;Wie heißt die Fügung für"|"notwendig sein"|"Er sagte, dass einiges Wissen dazu gehört, den Test zu bestehen.;dazu gehören/der große Wurf/die Kehle zuschnüren
+71;den Anfang machen;Wie heißt die Fügung für"|"beginnen"|"Ich mache den Anfang, wenn sonst niemand will.;die Konsequenzen ziehen/den Anfang machen/der gute Ton
+72;den Ausschlag geben;Entnimm aus dem Satz die Fügung für"|"entscheidend sein"|"Das hat für meine Entscheidung den Ausschlag gegeben.;die Nase rümpfen/den Ausschlag geben/der gute Wille
+73;den Blick auf etwas heften;Wie heißt die Fügung für"|"etwas unverwandt ansehen"|"Er heftete seinen Blick auf den Boden.;die Quadratur des Kreises/den Blick auf etwas heften/des Langen und Breiten
+74;den Garaus machen;Wie heißt die Fügung für"|"dafür sorgen, dass es nicht mehr existiert"|"Ich werde dem Ungeziefer den Garaus machen.;die Zeche zahlen müssen/den Garaus machen/dicke haben
+75;den Todesstoß versetzen;Wie heißt die Fügung für"|"die Entwicklung von etwas stoppen"|"Ihr Ausscheiden versetzte dem Projekt den Todesstoß.;die Zunge lösen/den Todesstoß versetzen/die alte Leier
+76;den Weg ebnen;Wie heißt die Fügung für"|"Schwierigkeiten aus dem Weg räumen"|"Der Vater hat dem Sohn den Weg geebnet.;drauf ankommen lassen/den Weg ebnen/die Augen funkeln
+77;der erste beste;Bitte die feste Fügung für"|"jeder Beliebige"|"Wir nehmen der ersten besten Bus.;drüber weg/der erste beste/die Fresse halten
+78;der große Wurf;Wie heißt die Fügung für"|"eine Meisterleistung"|"Mit dem Roman ist der Autorin der große Wurf gelungen.;dünn gesät/der große Wurf/die Kehle zuschnüren
+79;der gute Ton;Wie heißt die Fügung für"|"gutes Benehmen"|"Das gehört einfach zum guten Ton.;durch die Maschen gehen/der gute Ton/die Konsequenzen ziehen
+80;der gute Wille;Wie heißt die Fügung für"|"die Bereitschaft, an etwas mitzuwirken"|"Allein der gute Wille zählt.;Ehrensache/der gute Wille/die Nase rümpfen
+81;des Langen und Breiten;Wähle die Fügung für"|"zu ausführlich"|"Das wurde in der Sitzung des Langen und Breiten dargelegt.;ein Ausbund von/des Langen und Breiten/die Quadratur des Kreises
+82;dicke haben;Entnimm aus dem Satz die Fügung für"|"es satt haben"|"Jetzt habe ich es aber dicke!;ein Bäuerchen machen/dicke haben/die Zeche zahlen müssen
+83;die alte Leier;Entnimm aus dem Satz die Fügung für"|"häufig Wiederholtes"|"Immer die alte Leier, kannst du nicht mal etwas Neues vorschlagen?;ein fader Beigeschmack/die alte Leier/die Zunge lösen
+84;die Augen funkeln;Wie heißt die Fügung für"|"Augen lassen innere Erregung erkennen"|"Seine Augen funkeln vor Freude.;ein für alle Mal/die Augen funkeln/drauf ankommen lassen
+85;die Fresse halten;Wie heißt die Fügung für"|"schweigen"|"Halt endlich die Fresse!;ein heißes Eisen/die Fresse halten/drüber weg
+86;die Kehle zuschnüren;Wie heißt die Fügung für"|"am Sprechen hindern"|"Die Angst schnürt ihm die Kehle zu.;ein Katzensprung/die Kehle zuschnüren/dünn gesät
+87;die Konsequenzen ziehen;Wie heißt die Fügung für"|"Folgerungen für künftiges Handeln"|"Er zog die Konsequenzen aus dieser Affäre und trat zurück.;ein toller Hecht/die Konsequenzen ziehen/durch die Maschen gehen
+88;die Nase rümpfen;Wie heißt die Fügung für"|"seine Verachtung zum Ausdruck bringen"|"Die Nase über Andere rümpfen fällt nicht schwer.;ein Unding/die Nase rümpfen/Ehrensache
+89;die Quadratur des Kreises;Wie heißt die Fügung für"|"eine nicht lösbare Aufgabe"|"Man verlangt von ihnen die Quadratur des Kreises.;ein Zacken aus der Krone/die Quadratur des Kreises/ein Ausbund von
+90;die Zeche zahlen müssen;Wie heißt die Fügung für"|"die schlechten Folgen tragen müssen"|"Nun muss er die Zeche für sein jahrelanges Rauchen zahlen.;eine breite Palette/die Zeche zahlen müssen/ein Bäuerchen machen
+91;die Zunge lösen;Wie heißt die Fügung für"|"zum Reden bringen"|"Der Wein hatte ihm die Zunge gelöst.;eine Flunsch ziehen/die Zunge lösen/ein fader Beigeschmack
+92;drauf ankommen lassen;Entnimm aus dem Satz die Fügung für"|"um jeden Preis tun"|"Lass es nicht darauf ankommen!;eine Flut von/drauf ankommen lassen/ein für alle Mal
+93;drüber weg;Entnimm aus dem Satz die Fügung für"|"überwunden haben"|"Sie ist längst drüber weg.;eine halbe Portion/drüber weg/ein heißes Eisen
+94;dünn gesät;Wie heißt die Fügung für"|"nur wenig vorhanden"|"In dieser Branche sind Ausbildungsplätze dünn gesät.;eine Stange/dünn gesät/ein Katzensprung
+95;durch die Maschen gehen;Wie heißt die Fügung für"|"entkommen"|"Der Dieb war der Polizei durch die Maschen gegangen.;einen Hammer/durch die Maschen gehen/ein toller Hecht
+96;Ehrensache;Wie heißt das Wort für"|"selbstverständliche Pflicht"|"Das ist doch Ehrensache, dass ich dir beim Umzug helfe.;einen Korb geben/Ehrensache/ein Unding
+97;ein Ausbund von;Bitte die feste Fügung für"|"Inbegriff"|"Der Teufel ist ein Ausbund an Bosheit.;einen Platten haben/ein Ausbund von/ein Zacken aus der Krone
+98;ein Bäuerchen machen;Wähle die Fügung für"|"aufstoßen"|"Nachdem es getrunken hatte, machte das Baby sein Bäuerchen.;einen Schlussstrich ziehen/ein Bäuerchen machen/eine breite Palette
+99;ein fader Beigeschmack;Wie heißt die Fügung für"|"nicht ganz richtig gelaufen"|"Wir haben uns durchgesetzt, aber ein fader Beigeschmack ist geblieben.;eins sein/ein fader Beigeschmack/eine Flunsch ziehen
+100;ein für alle Mal;Entnimm aus dem Satz die Fügung für"|"endgültig"|"Das sage ich dir jetzt ein für alle Mal!;einsame Spitze/ein für alle Mal/eine Flut von
+101;ein heißes Eisen;Wie heißt die Fügung für"|"eine heikle Angelegenheit"|"Nicht jedes heiße Eisen muss man anpacken.;einzig und allein/ein heißes Eisen/eine halbe Portion
+102;ein Katzensprung;Wie heißt die Fügung für"|"nicht weit entfernt"|"Von der Wohnung bis ins Büro ist es nur ein Katzensprung.;entzieht sich der Kenntnis/ein Katzensprung/eine Stange
+103;ein toller Hecht;Wie heißt die Fügung für"|"eine bewundernswerte Person"|"Du bist ja ein toller Hecht!;erhaben über/ein toller Hecht/einen Hammer
+104;ein Unding;Entnimm aus dem Satz die Fügung für"|"unangebracht"|"Es ist ein Unding, dass er immer unentschuldigt fehlt.;es dämmert/ein Unding/einen Korb geben
+105;ein Zacken aus der Krone;Entnimm aus dem Satz die Fügung für"|"zu viel verlangt"|"Dir fällt schon kein Zacken aus der Krone, wenn du dich mal bedankst!;es ergeht .../ein Zacken aus der Krone/einen Platten haben
+106;eine breite Palette;Wie heißt die Fügung für"|"ein vielfältiges Angebot"|"Wir bieten eine breite Palette Einsatzmöglichkeiten.;es hagelt/eine breite Palette/einen Schlussstrich ziehen
+107;eine Flunsch ziehen;Wie heißt die Fügung für"|"sein Gesicht weinerlich verziehen"|"Musst du solch eine Flunsch ziehen?;es hat gescheppert/eine Flunsch ziehen/eins sein
+108;eine Flut von;Wie heißt die Fügung für"|"unerwartet große Menge von"|"Bei der Redaktion ging eine Flut von Leserzuschriften ein.;es juckt/eine Flut von/einsame Spitze
+109;eine halbe Portion;Wie heißt die Fügung für"|"eine sehr kleine, magere Person"|"Du bist doch nur eine halbe Portion!;eine halbe Portion/einzig und allein/es langt
+110;eine Stange;Wie heißt die Fügung für"|"sehr viel"|"Die Reparatur hat eine hübsche Stange Geld gekostet.;eine Stange/entzieht sich der Kenntnis/es läppert sich
+111;einen Hammer;Wie heißt die Fügung für"|"nicht ganz normal sein"|"Du hast wohl 'nen Hammer?;einen Hammer/erhaben über/es leid sein
+112;einen Korb geben;Wie heißt die Fügung für"|"Angebot ablehnen"|"Er forderte sie zum Tanz auf, sie gab ihm jedoch einen Korb.;einen Korb geben/es dämmert/etwas flüstern
+113;einen Platten haben;Wie heißt die Fügung für"|"ein Loch im Reifen haben"|"Kaum fuhren sie weg, schon hatten sie einen Platten.;einen Platten haben/es ergeht .../etwas läuten hören
+114;einen Schlussstrich ziehen;Entnimm aus dem Satz die Fügung für"|"etwas beenden"|"Längst hätten wir einen Schlussstrich unter die Angelegenheit ziehen sollen.;einen Schlussstrich ziehen/es hagelt/etwas zuschulden
+115;eins sein;Wie heißt die Fügung für"|"egal"|"Sie war ihm völlig eins geworden.;eins sein/es hat gescheppert/fauler Zauber
+116;einsame Spitze;Entnimm aus dem Satz die Fügung für"|"erstklassig"|"Der Film ist einsame Spitze!;einsame Spitze/es juckt/fehl am Platze
+117;einzig und allein;Wie heißt die Fügung für"|"nur"|"Dies war einzig und allein deine Schuld.;einzig und allein/es langt/Fehlanzeige!
+118;entzieht sich der Kenntnis;Wie heißt die Fügung für"|"weiß nichts davon"|"Das entzieht sich meiner Kenntnis.;entzieht sich der Kenntnis/es läppert sich/fehlt etwas
+119;erhaben über;Entnimm aus dem Satz die Fügung für"|"berührt ihn nicht"|"Die Lösung war über jeden Zweifel erhaben.;erhaben über/es leid sein/fern liegen
+120;es dämmert;Wie heißt die Fügung für"|"jemand versteht allmählich"|"Jetzt dämmert's mir.;es dämmert/etwas flüstern/Fersengeld geben
+121;es ergeht ...;Bitte die feste Fügung für"|"eine Erfahrung machen"|"Es ist uns allen schlecht ergangen.;es ergeht .../etwas läuten hören/fix und fertig
+122;es hagelt;Entnimm aus dem Satz die Fügung für"|"in großer Zahl"|"Es hagelte Vorwürfe.;es hagelt/etwas zuschulden/fixe Idee haben
+123;es hat gescheppert;Wie heißt die Fügung für"|"ein Autounfall hat sich ereignet"|"Auf der Kreuzung hat es gestern gescheppert.;es hat gescheppert/fauler Zauber/frank und frei
+124;es juckt;Wie heißt die Fügung für"|"würde gern tun"|"Es juckt mich, das einmal auszuprobieren.;es juckt/fehl am Platze/gefasst auf
+125;es langt;Bitte die feste Fügung für"|"hat genug"|"Hör endlich auf, es langt mir jetzt.;es langt/Fehlanzeige!/gefundenes Fressen
+126;es läppert sich;Bitte die feste Fügung für"|"in kleinen Schritten anwachsen"|"Es sind nur kleine Spenden eingegangen, aber es läppert sich.;es läppert sich/fehlt etwas/gemein mit
+127;es leid sein;Aus dem Satz die feste Fügung für"|"nicht mehr tolerieren"|"Ich bin dein Geschwätz leid.;es leid sein/fern liegen/Gemeingut werden
+128;etwas flüstern;Wie heißt die Fügung für"|"gehörig die Meinung sagen"|"Dir werde ich was flüstern!;etwas flüstern/Fersengeld geben/genehm sein
+129;etwas läuten hören;Wie heißt die Fügung für"|"gerüchteweise hören"|"Ich habe da etwas läuten hören, aber ich bin mir nicht sicher.;etwas läuten hören/fix und fertig/geringfügig
+130;etwas zuschulden;Wie heißt die Fügung für"|"Verbotenes oder Schädliches tun"|"Er hat sich in dieser Sache nichts zuschulden kommen lassen.;etwas zuschulden/fixe Idee haben/gesunder Menschenverstand
+131;fauler Zauber;Wie heißt die Fügung für"|"Schwindel, Betrug"|"Das glaube ich nicht. Das ist doch alles fauler Zauber.;fauler Zauber/frank und frei/gut reden
+132;fehl am Platze;Bitte die feste Fügung für"|"nicht passen"|"Schadenfreude ist hier völlig fehl am Platze.;fehl am Platze/gefasst auf/Hab und Gut
+133;Fehlanzeige!;Entnimm aus dem Satz die Fügung für"|"nicht so wie angenommen"|"Du hast geglaubt, der Computer funktioniert wieder? Fehlanzeige!;Fehlanzeige!/gefundenes Fressen/habhaft werden
+134;fehlt etwas;Bitte die feste Fügung für"|"jemand leidet an etwas"|"Du siehst schlecht aus. Fehlt dir etwas?;fehlt etwas/gemein mit/haften bleiben
+135;fern liegen;Wie heißt die Fügung für"|"nicht in Betracht kommen"|"Es liegt mir fern, ihn zu verdächtigen.;fern liegen/Gemeingut werden/heilen
+136;Fersengeld geben;Wie heißt die Fügung für"|"flüchten"|"Als sie sahen, dass sie bedroht wurden, gaben sie schleunigst Fersengeld.;Fersengeld geben/genehm sein/Herrgott noch mal!
+137;fix und fertig;Aus dem Satz die feste Fügung für"|"total fertig"|"Die Arbeit macht mich fix und fertig.;fix und fertig/geringfügig/hier zu Lande
+138;fixe Idee haben;Entnimm aus dem Satz die Fügung für"|"was einen nicht mehr loslässt"|"Er hatte die fixe Idee verfolgt zu werden.;fixe Idee haben/gesunder Menschenverstand/hoch hinaus
+139;frank und frei;Wie heißt die Fügung für"|"ohne Hemmungen"|"Da kann man noch frank und frei seine Meinung sagen.;frank und frei/gut reden/im Brennpunkt
+140;gefasst auf;Wie heißt die Fügung für"|"mit Unangenehmen rechnen"|"Du musst dich drauf gefasst machen.;gefasst auf/Hab und Gut/im Endeffekt
+141;gefundenes Fressen;Wie heißt die Fügung für"|"sehr willkommen"|"Sein Fehler war ein gefundenes Fressen für seinen missgünstigen Kollegen.;gefundenes Fressen/habhaft werden/im Flüsterton
+142;gemein mit;Wie heißt die Fügung für"|"eine gemeinsame Eigenschaft haben"|"Er hat nichts mit seinem Bruder gemein.;gemein mit/haften bleiben/im Gange sein
+143;Gemeingut werden;Wie heißt die Fügung für"|"allgemein bekannt werden"|"Dieses Lied ist längst Gemeingut geworden.;Gemeingut werden/heilen/im Geheimen
+144;genehm sein;Wie heißt die Fügung für"|"angenehm, willkommen sein"|"Dieser Termin ist mir sehr genehm.;genehm sein/Herrgott noch mal!/im Handumdrehen
+145;geringfügig;Wie heißt die Fügung für"|"nur wenig"|"Sie ist nach dem Sturz nur geringfügig verletzt.;geringfügig/hier zu Lande/im Hinblick
+146;gesunder Menschenverstand;Wie heißt die Fügung für"|"was der normale Mensch weiß"|"Das hättest du wissen können, das sagt einem doch der gesunde Menschenverstand.;gesunder Menschenverstand/hoch hinaus/im Höchstfall
+147;gut reden;Wie heißt die Fügung für"|"leicht über die Probleme anderer urteilen"|"Du hast gut reden, dir geht es ja besser.;gut reden/im Brennpunkt/im Kopf herum
+148;Hab und Gut;Wie heißt die Fügung für"|"der gesamte Besitz"|"Im Krieg haben viele all ihr Hab und Gut verloren.;Hab und Gut/im Endeffekt/im Nacken sitzen
+149;habhaft werden;Wie heißt die Fügung für"|"zu fassen bekommen"|"Die Polizei konnte der Täter schnell habhaft werden.;habhaft werden/im Flüsterton/im Prinzip
+150;haften bleiben;Bitte die feste Fügung für"|"immer an einem hängen"|"Dieser Makel wird immer an ihr haften bleiben.;haften bleiben/im Gange sein/im Sande verlaufen
+151;heilen;Wie heißt das Wort für"|"von einem Laster befreien"|"Die schwere Krankheit hat ihn vom Rauchen geheilt.;heilen/im Geheimen/im Schlepptau
+152;Herrgott noch mal!;Wähle die Fügung für"|"Ausruf der Verärgerung"|"Hergott noch mal, kannst du nicht besser aufpassen?;Herrgott noch mal!/im Handumdrehen/im Training sein
+153;hier zu Lande;Bitte die feste Fügung für"|"in unserer Umgebung"|"Hier zu Lande läuft das anders.;hier zu Lande/im Hinblick/im Vollbesitz
+154;hoch hinaus;Wie heißt die Fügung für"|"nach gesellschaftlichem Erfolg streben"|"Als er jung war, wollte er hoch hinaus.;hoch hinaus/im Höchstfall/im Voraus
+155;im Brennpunkt;Bitte die feste Fügung für"|"das Wichtigste"|"Nach ihrem Vortrag stand die Professorin im Brennpunkt des Interesses.;im Brennpunkt/im Kopf herum/im Zaum halten
+156;im Endeffekt;Wie heißt die Fügung für"|"letztlich"|"Im Endeffekt hat sich nichts geändert.;im Endeffekt/im Nacken sitzen/in aller Freundschaft
+157;im Flüsterton;Wie heißt die Fügung für"|"sehr leise"|"Ich möchte das nur im Flüsterton sagen.;im Flüsterton/im Prinzip/in aller Seelenruhe
+158;im Gange sein;Wie heißt die Fügung für"|"gerade stattfinden"|"Es hat den Anschein, als sei eine Verschwörung im Gange.;im Gange sein/im Sande verlaufen/in aller Stille
+159;im Geheimen;Aus dem Satz die feste Fügung für"|"heimlich"|"Im Geheimen waren sie anderer Meinung.;im Geheimen/im Schlepptau/in Angriff nehmen
+160;im Handumdrehen;Wie heißt die Fügung für"|"mühelos und schnell"|"Im Handumdrehen war alles fertig.;im Training sein/in Anspruch nehmen/im Handumdrehen
+161;im Hinblick;Aus dem Satz die feste Fügung für"|"hinsichtlich"|"Im Hinblick auf die leeren Kassen muss gespart werden.;im Vollbesitz/in Betracht ziehen/im Hinblick
+162;im Höchstfall;Wie heißt die Fügung für"|"nicht mehr als"|"Hier passen im Höchstfall 20 Personen hinein.;im Voraus/in den Keller/im Höchstfall
+163;im Kopf herum;Wie heißt die Fügung für"|"beschäftigen"|"Was du gesagt hast, ist mir noch lange im Kopf herumgegangen.;im Zaum halten/in den roten Zahlen/im Kopf herum
+164;im Nacken sitzen;Wie heißt die Fügung für"|"bedrängt werden"|"Die Furcht saß ihr im Nacken.;in aller Freundschaft/in der Folge/im Nacken sitzen
+165;im Prinzip;Wie heißt die Fügung für"|"im Grunde genommen"|"Im Prinzip ist das möglich.;in aller Seelenruhe/in der Hitze des Gefechts/im Prinzip
+166;im Sande verlaufen;Entnimm aus dem Satz die Fügung für"|"ergebnislos, erfolglos bleiben"|"Die Verhandlungen verliefen im Sande.;in aller Stille/in der Luft liegen/im Sande verlaufen
+167;im Schlepptau;Bitte die feste Fügung für"|"in jemandes Begleitung"|"Der Sänger verließ die Halle mit zahllosen Fans im Schlepptau.;in Angriff nehmen/in der Schwebe/im Schlepptau
+168;im Training sein;Entnimm aus dem Satz die Fügung für"|"etwas gut können"|"Beim Laufen bin ich zurzeit gut im Training.;in Anspruch nehmen/in die Irre führen/im Training sein
+169;im Vollbesitz;Wie heißt die Fügung für"|"klar und logisch denken können"|"Er war doch nicht mehr im Vollbesitz seiner geistigen Kräfte, als er das tat.;in Betracht ziehen/in die Quere/im Vollbesitz
+170;im Voraus;Wie heißt die Fügung für"|"schon vorher, früher"|"Er zahlte die Miete im Voraus.;in den Keller/in die Waagschale werfen/im Voraus
+171;im Zaum halten;Wie heißt die Fügung für"|"unter Kontrolle halten"|"Paul kann seine Gefühle schwer im Zaum halten.;in den roten Zahlen/in die Zange/im Zaum halten
+172;in aller Freundschaft;Wie heißt die Fügung für"|"ohne Streit zu beabsichtigen, wohlwollend"|"Er hat es ihm in aller Freundschaft gesagt.;in der Folge/in einer Tour/in aller Freundschaft
+173;in aller Seelenruhe;Wie heißt die Fügung für"|"extrem langsam"|"Er packte in aller Seelenruhe seinen Koffer.;in der Hitze des Gefechts/in großem Stil/in aller Seelenruhe
+174;in aller Stille;Wie heißt die Fügung für"|"ohne Aufsehen"|"Er wurde im engsten Familienkreis und in aller Stille begraben.;in der Luft liegen/in luftiger Höhe/in aller Stille
+175;in Angriff nehmen;Wie heißt die Fügung für"|"beginnen"|"Das Projekt wurde sofort in Angriff genommen.;in der Schwebe/in Personalunion/in Angriff nehmen
+176;in Anspruch nehmen;Wie heißt die Fügung für"|"sehr beschäftigen"|"Die Arbeit nimmt mich momentan sehr in Anspruch.;in die Irre führen/in petto/in Anspruch nehmen
+177;in Betracht ziehen;Entnimm aus dem Satz die Fügung für"|"erwägen"|"Diese Möglichkeit sollte man trotzdem in Betracht ziehen.;in die Quere/in Rufweite/in Betracht ziehen
+178;in den Keller;Wie heißt die Fügung für"|"tief sinken"|"Die Aktien fielen in den Keller.;in die Waagschale werfen/in Schuss/in den Keller
+179;in den roten Zahlen;Wie heißt die Fügung für"|"mit Verlust arbeiten"|"Das Unternehmen ist in den roten Zahlen.;in die Zange/in seinem Element/in den roten Zahlen
+180;in der Folge;Wie heißt die Fügung für"|"danach"|"In der Folge will man auch die anderen Gebäude restaurieren.;in einer Tour/in Strömen/in der Folge
+181;in der Hitze des Gefechts;Bitte die feste Fügung für"|"in der Aufregung"|"Das habe ich in der Hitze des Gefechts vergessen.;in großem Stil/in Ungnade fallen/in der Hitze des Gefechts
+182;in der Luft liegen;Wie heißt die Fügung für"|"zu ahnen"|"Der Streit hatte schon lange in der Luft gelegen.;in luftiger Höhe/in Zahlung/in der Luft liegen
+183;in der Schwebe;Wie heißt die Fügung für"|"noch ungewiss"|"Der Ausgang des Verfahrens ist zur Stunde noch in der Schwebe.;in Personalunion/ins Detail gehen/in der Schwebe
+184;in die Irre führen;Wie heißt die Fügung für"|"absichtlich in die falsche Richtung führen, täuschen"|"Mit solchen Reden versuchte man, das Volk in die Irre zu führen.;in petto/ins Leere/in die Irre führen
+185;in die Quere;Wie heißt die Fügung für"|"Weg kreuzen oder behindern"|"Komm mir ja nicht in die Quere!;in Rufweite/ins Ungeheure/in die Quere
+186;in die Waagschale werfen;Entnimm aus dem Satz die Fügung für"|"geltend machen"|"Er will all seinen Einfluss in die Waagschale werfen.;in Schuss/ins Zwielicht geraten/in die Waagschale werfen
+187;in die Zange;Wie heißt die Fügung für"|"so hart bedrängen, dass er keinen Ausweg hat"|"Wenn man ihn richtig in die Zange nimmt, wird er schon sagen, was er weiß.;in seinem Element/intus/in die Zange
+188;in einer Tour;Bitte die feste Fügung für"|"immerzu, ständig"|"Er fragt in einer Tour.;in Strömen/Jubel, Trubel, Heiterkeit/in einer Tour
+189;in großem Stil;Bitte die feste Fügung für"|"in großem Ausmaß"|"Er macht Geschäfte in großem Stil.;in Ungnade fallen/kalte Dusche/in großem Stil
+190;in luftiger Höhe;Wie heißt die Fügung für"|"sehr weit oben"|"Der Vogel schwebte in luftiger Höhe.;in Zahlung/kaum dass/in luftiger Höhe
+191;in Personalunion;Bitte die feste Fügung für"|"in einer Person"|"Er war Fraktionschef und Parteivorsitzender in Personalunion.;ins Detail gehen/kein grüner Zweig/in Personalunion
+192;in petto;Entnimm aus dem Satz die Fügung für"|"bereit haben"|"Ich habe noch manche Überraschung in petto.;in petto/ins Leere/keine Furcht kennen
+193;in Rufweite;Bitte die feste Fügung für"|"mit Rufen überbrückbar"|"Wir kamen in Rufweite der Beteiligten zum Stehen.;in Rufweite/ins Ungeheure/keinen Hehl machen
+194;in Schuss;Bitte die feste Fügung für"|"gepflegt sein"|"Ihr Garten ist gut in Schuss.;in Schuss/ins Zwielicht geraten/keiner Fliege was zu Leide tun
+195;in seinem Element;Entnimm aus dem Satz die Fügung für"|"was man gut kann"|"Im Sportunterricht ist sie in ihrem Element.;in seinem Element/intus/kenntlich machen
+196;in Strömen;Wie heißt die Fügung für"|"reichlich, heftig"|"Es goss in Strömen.;in Strömen/Jubel, Trubel, Heiterkeit/kreuz und quer
+197;in Ungnade fallen;Wie heißt die Fügung für"|"Zuneigung verlieren"|"Der Ritter war beim König in Ungnade gefallen.;in Ungnade fallen/kalte Dusche/kreuz und quer
+198;in Zahlung;Wie heißt die Fügung für"|"etwas als Teilzahlung einbringen"|"Gebrauchten in Zahlung geben: Beim Neuwagenkauf nehmen wir Ihren alten in Zahlung.;in Zahlung/kaum dass/krumm nehmen
+199;ins Detail gehen;Entnimm aus dem Satz die Fügung für"|"Einzelheiten erklären oder diskutieren"|"Wir können später noch ins Detail gehen.;ins Detail gehen/kein grüner Zweig/kurz entschlossen
+200;ins Leere;Wie heißt die Fügung für"|"keine Reaktion spüren"|"Ihre Ermahnungen gingen ins Leere, es beachtete sie niemand.;ins Leere/keine Furcht kennen/längst nicht
+201;ins Ungeheure;Wie heißt die Fügung für"|"sehr groß werden"|"Die Baukosten sind ins Ungeheure gestiegen.;ins Ungeheure/keinen Hehl machen/Laut geben
+202;ins Zwielicht geraten;Entnimm aus dem Satz die Fügung für"|"verdächtig werden"|"Dieser Spieler ist in letzter Zeit ins Zwielicht geraten.;ins Zwielicht geraten/keiner Fliege was zu Leide tun/laut werden
+203;intus;Bitte das Wort für"|"ein bestimmtes Quantum getrunken"|"Er hat schon drei Bier intus.;intus/kenntlich machen/leidenschaftlich
+204;Jubel, Trubel, Heiterkeit;Wähle die Fügung für"|"ausgelassenes, fröhliches Treiben"|"Überall herrschte Jubel, Trubel, Heiterkeit.;Jubel, Trubel, Heiterkeit/kreuz und quer/leuchtendes Vorbild
+205;kalte Dusche;Wie heißt die Fügung für"|"unerwartete starke Enttäuschung"|"Die Worte des Chefs waren eine kalte Dusche für ihn.;kalte Dusche/kreuz und quer/liegt im Ermessen
+206;kaum dass;Wie heißt die Fügung für"|"kurz nachdem"|"Kaum dass er aufgelegt hatte, klingelte erneut das Telefon.;kaum dass/krumm nehmen/los sein
+207;kein grüner Zweig;Wie heißt die Fügung für"|"keinen Erfolg haben"|"Wir sind trotz angestrengter Arbeit auf keinen grünen Zweig gekommen.;kein grüner Zweig/kurz entschlossen/Lug und Trug
+208;keine Furcht kennen;Wie heißt die Fügung für"|"mutig sein"|"Er kannte keine Furcht.;keine Furcht kennen/längst nicht/Lunte riechen
+209;keinen Hehl machen;Entnimm aus dem Satz die Fügung für"|"etwas nicht verbergen"|"Er machte keinen Hehl aus seiner Abneigung gegen Früchte.;keinen Hehl machen/Laut geben/mir nichts, dir nichts
+210;keiner Fliege was zu Leide tun;Wie heißt die Fügung für"|"ein friedvoller Mensch sein"|"Der kann doch keiner Fliege etwas zu Leide tun.;keiner Fliege was zu Leide tun/laut werden/mit Abstand
+211;kenntlich machen;Wie heißt die Fügung für"|"ein Zeichen anbringen"|"Kranke Bäume wurden mit aufgesprühten roten Zeichen kenntlich gemacht.;kenntlich machen/leidenschaftlich/mit allen Schikanen
+212;kreuz und quer;Bitte die feste Fügung für"|"in verschiedene Richtungen"|"Sie musste kreuz und quer durch die Stadt irren.;kreuz und quer/leuchtendes Vorbild/mit dem Holzhammer
+213;kreuz und quer;Wie heißt die Fügung für"|"ohne Plan, System"|"Auf der Suche nach einem Parkplatz fuhr er kreuz und quer durch die Stadt.;kreuz und quer/liegt im Ermessen/mit der Wimper zucken
+214;krumm nehmen;Wie heißt die Fügung für"|"übel nehmen"|"Bitte nimm mir das nicht krumm.;krumm nehmen/los sein/mit Fug und Recht
+215;kurz entschlossen;Wie heißt die Fügung für"|"kurzfristig entschieden"|"Wir sind kurz entschlossen ins Kino gegangen.;kurz entschlossen/Lug und Trug/mit jemandem Schluss machen
+216;längst nicht;Wie heißt die Fügung für"|"bei weitem nicht"|"Meine alte Wohnung war längst nicht so teuer wie meine neue.;längst nicht/Lunte riechen/mit Kennerblick
+217;Laut geben;Wie heißt die Fügung für"|"bellen"|"Der Hund gab sofort Laut.;Laut geben/mir nichts, dir nichts/mit Kind und Kegel
+218;laut werden;Wie heißt die Fügung für"|"bekannt werden"|"Es sind Klagen laut geworden.;laut werden/mit Abstand/mit Leib und Seele
+219;leidenschaftlich;Wie heißt die Fügung für"|"sehr gern"|"Er isst leidenschaftlich gern Schokolade.;leidenschaftlich/mit allen Schikanen/mit Liebe
+220;leuchtendes Vorbild;Wie heißt die Fügung für"|"ein großes Vorbild"|"Sie war ihren Kindern ein leuchtendes Vorbild.;leuchtendes Vorbild/mit dem Holzhammer/mit links
+221;liegt im Ermessen;Bitte die feste Fügung für"|"kann verantwortlich entschieden werden"|"Die Entscheidung liegt nicht in meinem Ermessen.;liegt im Ermessen/mit der Wimper zucken/mit Sack und Pack
+222;los sein;Wie heißt die Fügung für"|"glücklicherweise nicht mehr haben"|"Die Sorge bin ich endlich los.;los sein/mit Fug und Recht/mit Todesverachtung
+223;Lug und Trug;Wie heißt die Fügung für"|"Lüge und Betrug"|"Das ist doch alles nur Lug und Trug!;Lug und Trug/mit jemandem Schluss machen/mit zweierlei Maß messen
+224;Lunte riechen;Wie heißt die Fügung für"|"eine Gefahr spüren"|"Die Diebe hatten Lunte gerochen und waren schon ausgerissen.;Lunte riechen/mit Kennerblick/Musik in jemandes Ohr
+225;mir nichts, dir nichts;Entnimm aus dem Satz die Fügung für"|"einfach so"|"Sie ließ mich mir nichts, dir nichts stehen und ging.;mir nichts, dir nichts/mit Kind und Kegel/nach etwas fiebern
+226;mit Abstand;Wie heißt die Fügung für"|"mit großem Vorsprung"|"Sie ist mit Abstand die Intelligenteste der Klasse.;mit Abstand/mit Leib und Seele/nach Strich und Faden
+227;mit allen Schikanen;Wie heißt die Fügung für"|"sehr komfortabel"|"Er hat eine Stereoanlage mit allen Schikanen.;mit allen Schikanen/mit Liebe/Nerven aus Stahl
+228;mit dem Holzhammer;Wähle die Fügung für"|"auf plumpe Art und Weise"|"Ein Problem mit dem Holzhammer lösen geht meist schief.;mit dem Holzhammer/mit links/nicht drin
+229;mit der Wimper zucken;Wie heißt die Fügung für"|"ohne Zögern oder Bedenken"|"Er trank das undefinierbare Getränk, ohne mit der Wimper zu zucken.;mit der Wimper zucken/mit Sack und Pack/nicht kratzen
+230;mit Fug und Recht;Wie heißt die Fügung für"|"mit vollem Recht"|"Das darf ich mit Fug und Recht sagen.;mit Fug und Recht/mit Todesverachtung/nicht umsonst
+231;mit jemandem Schluss machen;Wie heißt die Fügung für"|"eine Liebesbeziehung beenden"|"Sie hat mit ihrem Freund Schluss gemacht.;mit jemandem Schluss machen/mit zweierlei Maß messen/nicht wahrhaben wollen
+232;mit Kennerblick;Wie heißt die Fügung für"|"prüfend, kritisch"|"Er musterte das Auto mit Kennerblick.;mit Kennerblick/Musik in jemandes Ohr/nicht zu verachten
+233;mit Kind und Kegel;Wie heißt die Fügung für"|"mit allen der Familie"|"Sie kamen mit Kind und Kegel.;mit Kind und Kegel/nach etwas fiebern/nicht zuletzt
+234;mit Leib und Seele;Wie heißt die Fügung für"|"mit großer Begeisterung"|"Wir werden mit Leib und Seele Lehrer sein.;mit Leib und Seele/nach Strich und Faden/nichts unversucht lassen
+235;mit Liebe;Wie heißt die Fügung für"|"mit viel Sorgfalt"|"Sie hat das Fest mit viel Liebe vorbereitet.;mit Liebe/Nerven aus Stahl/nichts zu danken!
+236;mit links;Wie heißt die Fügung für"|"mühelos"|"Das mach ich doch mit links!;mit links/nicht drin/nimmt übel
+237;mit Sack und Pack;Wie heißt die Fügung für"|"mit allem, was man besitzt"|"Er ist mit Sack und Pack ausgezogen.;mit Sack und Pack/nicht kratzen/nur Fassade
+238;mit Todesverachtung;Wie heißt die Fügung für"|"ohne sich etwas anmerken zu lassen"|"Sie aßen die Heuschrecken mit Todesverachtung.;mit Todesverachtung/nicht umsonst/ohne Umschweife
+239;mit zweierlei Maß messen;Wie heißt die Fügung für"|"unterschiedliche Maßstäbe anlegen"|"Hier wird steuerlich mit zweierlei Maß gemessen.;mit zweierlei Maß messen/nicht wahrhaben wollen/Paroli bieten
+240;Musik in jemandes Ohr;Wie heißt die Fügung für"|"eine angenehme Neuigkeit"|"Das war Musik in meinen Ohren.;Musik in jemandes Ohr/nicht zu verachten/pfeifen auf
+241;nach etwas fiebern;Wie heißt die Fügung für"|"etwas unbedingt haben wollen"|"Sie fiebert nach Abwechslung.;nach etwas fiebern/nicht zuletzt/rechtens
+242;nach Strich und Faden;Aus dem Satz die feste Fügung für"|"gehörig, gründlich"|"Sie hat mich nach Strich und Faden belogen.;nach Strich und Faden/nichts unversucht lassen/Revue passieren
+243;Nerven aus Stahl;Aus dem Satz die feste Fügung für"|"gute Nerven"|"Der Kerl hat Nevren aus Stahl.;Nerven aus Stahl/nichts zu danken!/rot werden
+244;nicht drin;Wie heißt die Fügung für"|"nicht zu machen"|"Betrug ist bei ihm nicht drin.;nicht drin/nimmt übel/runter sein
+245;nicht kratzen;Wie heißt die Fügung für"|"nicht interessieren"|"Ich habe ihm davon erzählt, aber es kratzte ihn überhaupt nicht.;nicht kratzen/nur Fassade/samt und sonders
+246;nicht umsonst;Wähle die Fügung für"|"aus gutem Grund"|"Das habe ich nicht umsonst gesagt, ich wollte euch warnen.;schielen nach/nicht umsonst/ohne Umschweife
+247;nicht wahrhaben wollen;Entnimm aus dem Satz die Fügung für"|"nicht anerkennen"|"Er wollte es nicht wahrhaben, dass er schwer krank war.;Schindluder treiben/nicht wahrhaben wollen/Paroli bieten
+248;nicht zu verachten;Wie heißt die Fügung für"|"zu begrüßen, erstrebenswert"|"Eine kleine Erfrischung wäre jetzt nicht zu verachten.;schnuppe/nicht zu verachten/pfeifen auf
+249;nicht zuletzt;Bitte die feste Fügung für"|"in erheblichem Maße"|"Dass wir es geschafft haben, lag nicht zuletzt an deiner Hilfe.;Schulter an Schulter/nicht zuletzt/rechtens
+250;nichts unversucht lassen;Wie heißt die Fügung für"|"alles Mögliche versuchen"|"Sie ließ nichts unversucht, um uns doch noch zu überreden.;schwarzfahren/nichts unversucht lassen/Revue passieren
+251;nichts zu danken!;Aus dem Satz die feste Fügung für"|"höfliche Reaktion auf einen Dank"|"Vielen Dank für Ihre Hilfe! Nichts zu danken, war doch selbstverständlich!;sein eigen Fleisch und Blut/nichts zu danken!/rot werden
+252;nimmt übel;Bitte die feste Fügung für"|"krumm nehmen"|"Ich kann dir das wirklich nicht übel nehmen.;sein Lebtag/nimmt übel/runter sein
+253;nur Fassade;Entnimm aus dem Satz die Fügung für"|"vordergründig, um Eindruck schinden"|"Ihre Freundlichkeit ist nur Fassade, in Wirklichkeit kann sie dich nicht leiden.;sein Ohr leihen/nur Fassade/samt und sonders
+254;ohne Umschweife;Wie heißt die Fügung für"|"direkt"|"Lass uns ohne Umschweife zur Sache kommen.;sein Typ sein/ohne Umschweife/schielen nach
+255;Paroli bieten;Wie heißt die Fügung für"|"Widerstand entgegensetzen"|"Er konnte ihr nicht Paroli bieten.;sein Unwesen treiben/Paroli bieten/Schindluder treiben
+256;pfeifen auf;Wie heißt die Fügung für"|"keinen Wert auf legen"|"Da hast du deine Sachen zurück, ich pfeife auf deine Hilfe.;seinen Kopf durchsetzen/pfeifen auf/schnuppe
+257;rechtens;Entnimm aus dem Satz die Fügung für"|"juristisch korrekt"|"Dieser Verkauf war nicht rechtens.;sich absondern/rechtens/Schulter an Schulter
+258;Revue passieren;Wie heißt die Fügung für"|"vor dem inneren Auge entstehen lassen"|"Er ließ den Tag noch einmal Revue passieren.;sich an Land ziehen/Revue passieren/schwarzfahren
+259;rot werden;Aus dem Satz die feste Fügung für"|"im Gesicht eine rote Farbe bekommen"|"Sie wurde rot vor Scham.;sich auf den Hintern setzen/rot werden/sein eigen Fleisch und Blut
+260;runter sein;Wie heißt die Fügung für"|"abgearbeitet sein"|"Nach dem anstrengenden Tag bin ich völlig runter.;sich behalten/runter sein/sein Lebtag
+261;samt und sonders;Wähle die Fügung für"|"ausnahmslos"|"Die Zuschauer waren samt und sonders von der Vorstellung begeistert.;sich die Waage halten/samt und sonders/sein Ohr leihen
+262;schielen nach;Wie heißt die Fügung für"|"unbedingt haben wollen"|"Er schielte nach ihren Ersparnissen.;sich etwas abschminken/schielen nach/sein Typ sein
+263;Schindluder treiben;Wie heißt die Fügung für"|"schlimm behandeln"|"Er treibt doch Schindluder mit seiner Gesundheit.;sich etwas ausrechnen/Schindluder treiben/sein Unwesen treiben
+264;schnuppe;Entnimm aus dem Satz die Fügung für"|"gleichgültig"|"Das ist mir doch schnuppe!;sich gezwungen sehen/schnuppe/seinen Kopf durchsetzen
+265;Schulter an Schulter;Wie heißt die Fügung für"|"dicht nebeneinander, gemeinsam"|"Sie kämpften Schulter an Schulter;sich im Klaren sein/Schulter an Schulter/sich absondern
+266;schwarzfahren;Wie heißt die Fügung für"|"ohne Fahrkarte"|"Der fährt ständig schwarz und wird nicht erwischt.;sich nicht lumpen lassen/schwarzfahren/sich an Land ziehen
+267;sein eigen Fleisch und Blut;Wie heißt die Fügung für"|"die eigenen Kinder"|"Sie wusste, es war ihr eigen Fleisch und Blut.;sich nicht retten können/sein eigen Fleisch und Blut/sich auf den Hintern setzen
+268;sein Lebtag;Wie heißt die Fügung für"|"sein ganzes Leben lang"|"Daran werde ich mein Lebtag denken.;sich selbst überlassen/sein Lebtag/sich behalten
+269;sein Ohr leihen;Wie heißt die Fügung für"|"zuhören"|"Leih mit für drei Minuten dein Ohr, bitte.;sich vergehen/sein Ohr leihen/sich die Waage halten
+270;sein Typ sein;Wie heißt die Fügung für"|"angenehm sein, gefallen"|"Der neue Kollege ist einfach nicht mein Typ.;sich wichtig machen/sein Typ sein/sich etwas abschminken
+271;sein Unwesen treiben;Bitte die feste Fügung für"|"Schaden anrichten"|"Eine Räuberbande trieb ihr Unwesen in dieser Gegend.;sich zu schaffen machen/sein Unwesen treiben/sich etwas ausrechnen
+272;seinen Kopf durchsetzen;Entnimm aus dem Satz die Fügung für"|"die eigenen Vorstellungen verwirklichen"|"Immer musst du deinen Kopf durchsetzen.;sieht nach etwas aus/seinen Kopf durchsetzen/sich gezwungen sehen
+273;sich absondern;Wie heißt die Fügung für"|"den Umgang mit den anderen meiden"|"Peter wird sich von der Gruppe absondern.;sitzen lassen/sich absondern/sich im Klaren sein
+274;sich an Land ziehen;Wie heißt die Fügung für"|"in seinen Besitz bringen"|"Hier hat sie sich einige Dinge an Land gezogen.;sommers wie winters/sich an Land ziehen/sich nicht lumpen lassen
+275;sich auf den Hintern setzen;Aus dem Satz die feste Fügung für"|"hinfallen"|"Beim Eislaufen habe ich mich auf den Hintern gesetzt.;spinnefeind/sich auf den Hintern setzen/sich nicht retten können
+276;sich behalten;Wie heißt die Fügung für"|"nicht weitererzählen"|"Ich kann diese Neuigkeit sehr wohl für mich behalten.;Staub aufwirbeln/sich behalten/sich selbst überlassen
+277;sich die Waage halten;Aus dem Satz die feste Fügung für"|"ausgewogen"|"Die Vorteile und die Nachteile halten sich die Waage.;steif und fest behaupten/sich die Waage halten/sich vergehen
+278;sich etwas abschminken;Wähle die Fügung für"|"auf etwas verzichten"|"Den Urlaub kannst du dir abschminken!;tagaus, tagein/sich etwas abschminken/sich wichtig machen
+279;sich etwas ausrechnen;Entnimm aus dem Satz die Fügung für"|"erwarten"|"Die Mannschaft hat sich gute Chancen ausgerechnet.;Teilzeit arbeiten/sich etwas ausrechnen/sich zu schaffen machen
+280;sich gezwungen sehen;Wie heißt die Fügung für"|"müssen"|"Wir sehen uns leider gezwungen, Ihnen zu kündigen.;toter Winkel/sich gezwungen sehen/sieht nach etwas aus
+281;sich im Klaren sein;Aus dem Satz die feste Fügung für"|"genau wissen, welche Folgen sich ergeben"|"Darüber war ich mir von Anfang an im Klaren.;überfragt/sich im Klaren sein/sitzen lassen
+282;sich nicht lumpen lassen;Wie heißt die Fügung für"|"nicht geizig sein"|"Er hat sich an seinem Geburtstag nicht lumpen lassen!;überfüttern/sich nicht lumpen lassen/sommers wie winters
+283;sich nicht retten können;Entnimm aus dem Satz die Fügung für"|"etwas im Überfluss haben"|"Sie konnte sich vor Angeboten nicht retten.;überhand nehmen/sich nicht retten können/spinnefeind
+284;sich selbst überlassen;Wie heißt die Fügung für"|"allein lassen"|"Ihr könnt ihn doch bei dieser schwierigen Sache nicht sich selbst überlassen.;um das Goldene Kalb/sich selbst überlassen/Staub aufwirbeln
+285;sich vergehen;Wie heißt die Fügung für"|"sexuell missbrauchen"|"Er hat sich an ihr vergangen.;um Haaresbreite/sich vergehen/steif und fest behaupten
+286;sich wichtig machen;Wie heißt die Fügung für"|"die eigene Person in den Vordergrund drängen"|"Der macht sich da furchtbar wichtig.;um seinetwillen/sich wichtig machen/tagaus, tagein
+287;sich zu schaffen machen;Entnimm aus dem Satz die Fügung für"|"etwas in verdächtiger Weise tun"|"Sieh mal, da macht sich einer an deinem Fahrrad zu schaffen.;ungeschehen machen/sich zu schaffen machen/Teilzeit arbeiten
+288;sieht nach etwas aus;Entnimm aus dem Satz die Fügung für"|"lässt etwas erwarten"|"Das sieht nach Regenwetter aus.;unten durch sein/sieht nach etwas aus/toter Winkel
+289;sitzen lassen;Wie heißt die Fügung für"|"im Stich lassen"|"Er ließ sie schon kurz nach der Hochzeit sitzen.;unter aller Kanone/sitzen lassen/überfragt
+290;sommers wie winters;Aus dem Satz die feste Fügung für"|"ganzjährig"|"Sommers wie winters ist sie mit dem Rad zur Arbeit gefahren.;unter dem Nullpunkt/sommers wie winters/überfüttern
+291;spinnefeind;Wie heißt das Wort für"|"verhasst, verfeindet"|"Die beiden sind sich schon seit langem spinnefeind.;unter die Lupe nehmen/spinnefeind/überhand nehmen
+292;Staub aufwirbeln;Aus dem Satz die feste Fügung für"|"große Aufregung verursachen"|"Die Affäre hat viel Staub aufgewirbelt.;unter die Räder kommen/Staub aufwirbeln/um das Goldene Kalb
+293;steif und fest behaupten;Aus dem Satz die feste Fügung für"|"hartnäckig behaupten"|"Der Junge behauptete steif und fest nicht dabei gewesen zu sein.;unter Zuhilfenahme/steif und fest behaupten/um Haaresbreite
+294;tagaus, tagein;Bitte die feste Fügung für"|"immer wieder"|"Tagaus, tagein müssen die Leute schuften.;unwürdig sein/tagaus, tagein/um seinetwillen
+295;Teilzeit arbeiten;Wie heißt die Fügung für"|"weniger als die volle Arbeitszeit arbeiten"|"Als Mutter zweier Kinder arbeitet sie (in) Teilzeit.;urbar machen/Teilzeit arbeiten/ungeschehen machen
+296;toter Winkel;Wie heißt die Fügung für"|"Stelle, die man nicht einsehen kann"|"Autos im toten Winkel siehst du im besten Rückspiegel nicht.;verlorene Liebesmüh/toter Winkel/unten durch sein
+297;überfragt;Entnimm aus dem Satz das Wort für"|"nicht wissen"|"Da bin ich wirklich überfragt.;voll und ganz unterschreiben/überfragt/unter aller Kanone
+298;überfüttern;Wie heißt das Wort für"|"zu vielen Einflüssen aussetzen"|"Wir waren mit den Angeboten so überfüttert, dass wir nur noch unsere Ruhe wollten.;volles Rohr/überfüttern/unter dem Nullpunkt
+299;überhand nehmen;Wie heißt die Fügung für"|"zu häufig aufzutreten"|"Die Rehe haben so überhand genommen, dass der Wald stark geschädigt ist.;vom Fach/überhand nehmen/unter die Lupe nehmen
+300;um das Goldene Kalb;Wie heißt die Fügung für"|"Geld über alles schätzen"|"Das ist der Tanz um das Goldene Kalb.;vom Hörensagen/um das Goldene Kalb/unter die Räder kommen
+301;um Haaresbreite;Wie heißt die Fügung für"|"beinahe"|"Um Haaresbreite wäre ich überfahren worden.;vom Leder ziehen/um Haaresbreite/unter Zuhilfenahme
+302;um seinetwillen;Wie heißt die Fügung für"|"mit Rücksicht auf ihn"|"Sie hat es um seinetwillen getan.;von der Tarantel gestochen/um seinetwillen/unwürdig sein
+303;ungeschehen machen;Entnimm aus dem Satz die Fügung für"|"rückgängig machen"|"Ich wünschte, ich könnte diese Äußerung ungeschehen machen.;von früh bis spät/ungeschehen machen/urbar machen
+304;unten durch sein;Wie heißt die Fügung für"|"Wohlwollen verloren haben"|"Nach dieser Sache wirst du wohl bei ihm unten durch sein.;von heute auf morgen/unten durch sein/verlorene Liebesmüh
+305;unter aller Kanone;Wie heißt die Fügung für"|"sehr schlecht"|"Deine Leistungen sind einfach unter aller Kanone.;von ungefähr/unter aller Kanone/voll und ganz unterschreiben
+306;unter dem Nullpunkt;Bitte die feste Fügung für"|"im nicht mehr akzeptablen Bereich"|"Die Stimmung war unter dem Nullpunkt angelangt.;Von wegen!/unter dem Nullpunkt/volles Rohr
+307;unter die Lupe nehmen;Wie heißt die Fügung für"|"genau prüfen"|"Sie nahmen den Bewerber genau unter die Lupe, bevor sie eine Entscheidung trafen.;vonnöten/unter die Lupe nehmen/vom Fach
+308;unter die Räder kommen;Wie heißt die Fügung für"|"verkommen, herunterkommen"|"Der Junge ist wirklich unter die Räder gekommen.;vonstatten gehen/unter die Räder kommen/vom Hörensagen
+309;unter Zuhilfenahme;Bitte die feste Fügung für"|"indem man etwas benutzt"|"Die Aufgabe ist unter Zuhilfenahme eines Taschenrechners zu lösen.;vor den Trümmern stehen/unter Zuhilfenahme/vom Leder ziehen
+310;unwürdig sein;Entnimm aus dem Satz die Fügung für"|"nicht verdienen"|"Er ist unseres Vertrauens unwürdig.;wahre Wunder wirken/unwürdig sein/von der Tarantel gestochen
+311;urbar machen;Wie heißt die Fügung für"|"für die landwirtschaftliche Nutzung vorbereiten"|"Sie wollten unkultiviertes Land urbar machen.;wegstecken/urbar machen/von früh bis spät
+312;verlorene Liebesmüh;Wie heißt die Fügung für"|"keiner Anstrengung wert"|"Das ist doch verlorene Liebesmüh!;Weiß der Teufel!/verlorene Liebesmüh/von heute auf morgen
+313;voll und ganz unterschreiben;Aus dem Satz die feste Fügung für"|"gutheißen"|"Was du sagst, kann ich voll und ganz unterschreiben.;weit und breit/voll und ganz unterschreiben/von ungefähr
+314;volles Rohr;Wie heißt die Fügung für"|"mit aller Kraft"|"Er fuhr gleich volles Rohr.;Wellen schlagen/volles Rohr/Von wegen!
+315;vom Fach;Bitte die feste Fügung für"|"im Fachgebiet Experte"|"Sie müsste es eigentlich wissen, sie ist vom Fach.;wenn doch/vom Fach/vonnöten
+316;vom Hörensagen;Wie heißt die Fügung für"|"nur vom Weitererzählen"|"Ich weiß das nur vom Hörensagen.;wie angegossen/vom Hörensagen/vonstatten gehen
+317;vom Leder ziehen;Aus dem Satz die feste Fügung für"|"heftig schimpfen"|"Er zog gegen seine Kritiker ordentlich vom Leder.;wie ein Irrer/vom Leder ziehen/vor den Trümmern stehen
+318;von der Tarantel gestochen;Wie heißt die Fügung für"|"sehr schnell und ruckartig"|"Er sprang auf wie von der Tarantel gestochen.;wie ein Lauffeuer/von der Tarantel gestochen/wahre Wunder wirken
+319;von früh bis spät;Wie heißt die Fügung für"|"den ganzen Tag"|"Dann wird es wohl zu spät sein.;wie eine Bombe einschlagen/von früh bis spät/wegstecken
+320;von heute auf morgen;Bitte die feste Fügung für"|"in kurzer Zeit"|"Von heute auf morgen hatten sie alles verloren.;wie elektrisiert/von heute auf morgen/Weiß der Teufel!
+321;von ungefähr;Wie heißt die Fügung für"|"zufällig"|"Das habe ich nicht von ungefähr gesagt.;wie geschaffen/von ungefähr/weit und breit
+322;Von wegen!;Wähle die Fügung für"|"Ablehnung"|"Von wegen, das fällt mir im Traum nicht ein!;Von wegen!/Wellen schlagen/wie verrückt
+323;vonnöten;Wie heißt das Wort für"|"notwendig"|"Hier ist schnelle Hilfe vonnöten.;vonnöten/wenn doch/wie von selbst
+324;vonstatten gehen;Bitte die feste Fügung für"|"ablaufen"|"Der Umzug ging schneller vonstatten, als er dachte.;vonstatten gehen/wie angegossen/wie wahnsinnig
+325;vor den Trümmern stehen;Entnimm aus dem Satz die Fügung für"|"etwas ehemals Gutes zerstört haben"|"Er stand vor den Trümmern seiner Ehe/seiner Existenz.;vor den Trümmern stehen/wie ein Irrer/willkommen heißen
+326;wahre Wunder wirken;Wie heißt die Fügung für"|"sehr gut wirken"|"Die Arznei wirkt wahre Wunder.;wahre Wunder wirken/wie ein Lauffeuer/wirksam werden
+327;wegstecken;Wie heißt die Fügung für"|"zurechtkommen"|"Sie hat den Misserfolg gut weggesteckt.;wegstecken/wie eine Bombe einschlagen/wohlauf
+328;Weiß der Teufel!;Wie heißt die Fügung für"|"ist mir egal"|"Weiß der Teufel, wer da wieder kommt.;Weiß der Teufel!/wie elektrisiert/zappeln lassen
+329;weit und breit;Wie heißt die Fügung für"|"überall"|"Weit und breit keine Besserung in Sicht.;weit und breit/wie geschaffen/zeugen von
+330;Wellen schlagen;Wähle die Fügung für"|"Aufregung verursachen"|"Der überraschende Rücktritt des Ministers hat Wellen geschlagen.;Wellen schlagen/wie verrückt/zu bunt
+331;wenn doch;Wähle die Fügung für"|"Ausdruck einer Hoffnung"|"Wenn doch schon Abend wäre!;wenn doch/wie von selbst/zu Grunde liegen
+332;wie angegossen;Aus dem Satz die feste Fügung für"|"ganz genau passen"|"Die Hose sitzt wie angegossen.;wie angegossen/wie wahnsinnig/zu guter Letzt
+333;wie ein Irrer;Wie heißt die Fügung für"|"sehr schnell"|"Er ist gefahren wie ein Irrer.;wie ein Irrer/willkommen heißen/zu Leide tun
+334;wie ein Lauffeuer;Wie heißt die Fügung für"|"sehr schnell"|"Die Neuigkeit verbreitete sich im Dorf wie ein Lauffeuer.;wie ein Lauffeuer/wirksam werden/zu Mute
+335;wie eine Bombe einschlagen;Aus dem Satz die feste Fügung für"|"große Verwirrung stiften"|"Die Nachricht schlug ein wie eine Bombe.;wie eine Bombe einschlagen/wohlauf/zu Rande kommen
+336;wie elektrisiert;Entnimm aus dem Satz die Fügung für"|"erschrocken oder aufgerüttelt sein"|"Sie sprang wie elektrisiert auf, als das Telefon läutete.;wie elektrisiert/zappeln lassen/zu Stande
+337;wie geschaffen;Wie heißt die Fügung für"|"sehr geeignet"|"Sie ist für diese Arbeit wie geschaffen.;wie geschaffen/zeugen von/zu Tode
+338;wie verrückt;Wie heißt die Fügung für"|"außerordentlich stark"|"Wir rannten wie verrückt.;wie verrückt/zu bunt/zu Wege bringen
+339;wie von selbst;Wie heißt die Fügung für"|"problemlos"|"Das Geld kam herein wie von selbst.;wie von selbst/zu Grunde liegen/zu zwölft
+340;wie wahnsinnig;Wie heißt die Fügung für"|"sehr intensiv"|"Er rannte herum wie wahnsinnig.;wie wahnsinnig/zu guter Letzt/zugetan sein
+341;willkommen heißen;Wie heißt die Fügung für"|"offiziell begrüßen"|"Die Gäste wurden vom Gastgeber willkommen geheißen.;willkommen heißen/zu Leide tun/zugute halten
+342;wirksam werden;Aus dem Satz die feste Fügung für"|"gelten"|"Die Maßnahmen werden sofort wirksam.;wirksam werden/zu Mute/Zukunftsmusik
+343;wohlauf;Aus dem Satz das Wort für für"|"gesund"|"Ist sie wieder wohlauf?;wohlauf/zu Rande kommen/zum Schießen
+344;zappeln lassen;Wie heißt die Fügung für"|"eine Nachricht vorenthalten"|"Die Zeugnisse gab es nicht gleich. Die Lehrerin ließ sie noch etwas zappeln.;zappeln lassen/zu Stande/zum Sprachrohr
+345;zeugen von;Wie heißt die Fügung für"|"Beweis für etwas sein"|"Sein Verhalten zeugt nicht gerade von Intelligenz.;zeugen von/zu Tode/zum Vorschein kommen
+346;zu bunt;Bitte die feste Fügung für"|"hat genug davon"|"Jetzt wird's mir aber wirklich zu bunt.;zu bunt/zu Wege bringen/zunehmender Mond
+347;zu Grunde liegen;Wie heißt die Fügung für"|"die Grundlage sein"|"Die zu Grunde liegenden Fakten sprechen Bände.;zu Grunde liegen/zu zwölft/Zünglein an der Waage
+348;zu guter Letzt;Wie heißt die Fügung für"|"letztendlich"|"Zu guter Letzt habe ich die Schlüssel dann doch gefunden.;zu guter Letzt/zugetan sein/zunichte machen
+349;zu Leide tun;Wie heißt die Fügung für"|"Schaden zufügen, wehtun"|"Er tut keiner Fliege was zuleide.;zu Leide tun/zugute halten/zunutze machen
+350;zu Mute;Bitte die feste Fügung für"|"wie jemand sich fühlt"|"Mir ist nicht gerade zum Lachen zu Mute.;zu Mute/Zukunftsmusik/zusammenpacken
+351;zu Rande kommen;Entnimm aus dem Satz die Fügung für"|"bewältigen, schaffen"|"Ich komme mit der Arbeit kaum zu Rande.;zu Rande kommen/zum Schießen/zustatten
+352;zu Stande;Wie heißt die Fügung für"|"können, verwirklichen"|"Wie habt ihr denn das zu Stande gebracht?;zu Stande/zum Sprachrohr/von früh bis spät
+353;zu Tode;Wie heißt die Fügung für"|"bis ins Innerste"|"Wir waren zu Tode erschrocken.;zu Tode/zum Vorschein kommen/von heute auf morgen
+354;zu Wege bringen;Entnimm aus dem Satz die Fügung für"|"erreichen, vollenden"|"Wie hast du das bloß zu Wege gebracht?;zu Wege bringen/zunehmender Mond/von ungefähr
+355;zu zwölft;Wie heißt die Fügung für"|"mit zwölf Personen"|"Sie sind zu zwölft im Zimmer gewesen.;zu zwölft/Zünglein an der Waage/Von wegen!
+356;zugetan sein;Wie heißt die Fügung für"|"gern haben"|"Sie war ihm sehr zugetan.;zugetan sein/zunichte machen/vonnöten
+357;zugute halten;Entnimm aus dem Satz die Fügung für"|"als Entschuldigung anerkennen"|"Man muss ihr zugute halten, dass sie sich redlich bemüht hat.;zugute halten/zunutze machen/vonstatten gehen
+358;Zukunftsmusik;Entnimm aus dem Satz die Fügung für"|"kommt vielleicht später"|"Vieles von diesen Ideen ist noch Zukunftsmusik.;Zukunftsmusik/zusammenpacken/vor den Trümmern stehen
+359;zum Schießen;Wie heißt die Fügung für"|"sehr zum Lachen sein"|"Zum Schießen fand ich die ganze Vorstellung.;zum Schießen/zustatten/wahre Wunder wirken
+360;zum Sprachrohr;Bitte die feste Fügung für"|"artikuliert die Probleme von jemandem"|"Er machte sich zum Sprachrohr der Unterdrückten und Armen.;zum Sprachrohr/zuteil werden/wegstecken
+361;zum Vorschein kommen;Wähle die Fügung für"|"aus dem Verborgenen auftauchen"|"Beim Aufräumen der Schubladen kamen auch alte Fotos zum Vorschein.;zum Vorschein kommen/zuwider/Weiß der Teufel!
+362;zunehmender Mond;Wie heißt die Fügung für"|"die Phase, in der Mond wächst"|"Wir haben zurzeit zunehmenden Mond.;zunehmender Mond/von früh bis spät/weit und breit
+363;Zünglein an der Waage;Wie heißt die Fügung für"|"Kleinigkeit, die den Ausschlag gibt"|"Die Stimme eines Abgeordneten wurde zum Zünglein an der Waage.;Zünglein an der Waage/von heute auf morgen/Wellen schlagen
+364;zunichte machen;Wie heißt die Fügung für"|"etwas zerstören"|"Die Niederlage hat alle unsere Hoffnungen zunichte gemacht.;zunichte machen/von ungefähr/wenn doch
+365;zunutze machen;Wie heißt die Fügung für"|"zum eigenen Vorteil nutzen"|"In Italien konnten wir uns Sprachkenntnisse unserer Tochter zunutze machen.;zunutze machen/Von wegen!/wie angegossen
+366;zusammenpacken;Wähle die Fügung für"|"aufgeben müssen"|"Wenn das wirklich passiert, dann können wir zusammenpacken.;zusammenpacken/vonnöten/wie ein Irrer
+367;zustatten;Wie heißt das Wort für"|"nützlich und hilfreich"|"Dabei kamen ihm seine guten Fremdsprachenkenntnisse sehr zustatten.;zustatten/vonstatten gehen/wie ein Lauffeuer
+368;zuteil werden;Wie heißt die Fügung für"|"bekommen"|"Ihm wurde die Ehre zuteil, die Festrede zu halten.;zuteil werden/vor den Trümmern stehen/wie eine Bombe einschlagen
+369;zuwider;Wie heißt das Wort für"|"Ablehnung hervorrufen"|"Der ganze Kerl ist mir zuwider.;zuwider/wahre Wunder wirken/wie elektrisiert
